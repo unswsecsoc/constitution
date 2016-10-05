@@ -88,7 +88,7 @@ The official constitution of the UNSW Security Society.
       3.9.2 Vice President
         a) In the absence of the President, to chair all meetings (held during their term) of the club or society;
         b) To be responsible for matters relating to sponsorship and funding from outside organisations other than Arc, including but not limited to:
-            i. Liasion with such outside organisations,
+            i. Liaising with such outside organisations,
            ii. Establishing the sponsorship proposal for the year, and
           iii. Organising events run in conjunction with sponsors;
         c) To arrive at a budget with the Executive;
