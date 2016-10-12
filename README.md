@@ -45,9 +45,10 @@ The official constitution of the UNSW Security Society.
 # 3 EXECUTIVE
     3.1 The Executive of the club shall be elected from the full members at the Annual General Meeting and shall consist of at least:
       3.1.1 A President;
-      3.1.2 A Secretary;
-      3.1.3 A Treasurer; and
-      3.1.4 An Arc Delegate.
+      3.1.2 A Vice President;
+      3.1.3 A Secretary;
+      3.1.4 A Treasurer; and
+      3.1.5 An Arc Delegate.
     3.2 One member is permitted to hold two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the exception that the positions of President and Treasurer may not be held by the same person..
     3.3 Job sharing of any Executive position is not permitted.
     3.4 The Executive shall be responsible for the following duties:
@@ -84,14 +85,22 @@ The official constitution of the UNSW Security Society.
         o) To pass on their knowledge to their successor; and
         p) Other duties as in accordance with the Constitution of the club.
 
-      3.9.2 Secretary
+      3.9.2 Vice President
+        a) In the absence of the President, to chair all meetings (held during their term) of the club or society;
+        b) To be responsible for matters relating to sponsorship and funding from outside organisations other than Arc, including but not limited to:
+            i. Liaising with such outside organisations,
+           ii. Establishing the sponsorship proposal for the year, and
+          iii. Organising events run in conjunction with sponsors;
+        c) To arrive at a budget with the Executive;
+
+      3.9.3 Secretary
         a) To be responsible for receiving and replying to all correspondence on behalf of the club;
         b) To organise meetings, agendas (in consultation with the President), and minutes;
         c) To keep relevant club papers in order;
         d) To coordinate elections; and
         e) To maintain the membership list, updating when changes are made.
 
-      3.9.3 Treasurer
+      3.9.4 Treasurer
         a) To keep and maintain all club financial records;
         b) To hold cheque books, petty cash tins etc;
         c) To keep the club informed of its financial position (at meetings, through regular e­mail reports, or regular newsletter;
@@ -108,7 +117,7 @@ The official constitution of the UNSW Security Society.
         n) To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained.
         o) Under no circumstances are any expenses to be met without documentation,
 
-      3.9.4 Arc Delegate
+      3.9.5 Arc Delegate
         a) To be aware of the Arc funding system, it’s requirements and its possibilities for the club;
         b) To communicate with the Executive before and after each Arc Clubs General Meeting to pass on information (about grants etc);
         c) To liaise with Arc and the club’s Executive;
