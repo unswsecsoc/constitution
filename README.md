@@ -61,6 +61,12 @@ The official constitution of the UNSW Security Society.
       3.6.2 Cease to be a member of the club;
       3.6.3 Cease to be a UNSW student;
       3.6.4 Are absent from any three (3) consecutive meetings of the club without apology or leave; or
+        3.6.4.1 Unless exempted unanimously by the Executive.
+      3.6.5 The person fails to fulfil reasonable obligations delegated by:
+        3.6.5.1 The Constitution, or
+        3.6.5.2 The Executive, or
+        3.6.5.3 Any other supplementary regulations.
+        3.6.5.4 Unless exempted unanimously by the Executive.
       3.6.5 Have their position declared vacant at an Extraordinary General Meeting.
       3.7 Any member of the Committee shall have their position declared vacant if they:
       3.7.1 Meet the criteria outlined in section 3.6; or
@@ -109,13 +115,12 @@ The official constitution of the UNSW Security Society.
         f) To always ensure that the records are up to date and in good order so that if they are otherwise unable to continue in that capacity someone else can easily take over;
         g) To not put the club in debt that cannot be repaid, but should endeavour to match costs and income as closely as possible;
         h) To always insist on a receipt or docket to validate any expenditure by the club;
-        i) To pay all accounts by cheque;
-        j) To always enter the payees name, the cheque amount and a brief explanation of the payment on the cheque butt;
-        k) To always provide a receipt to a person who gives money to the club for any reason and bank all money received IMMEDIATELY;
-        l) To ensure you have at least two and not more than three signatories who are Executive members to the cheque account;
-        m) To ensure that club funds are not misused at any time; and
-        n) To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained.
-        o) Under no circumstances are any expenses to be met without documentation,
+        i) To always enter the payees name, the cheque amount and a brief explanation of the payment on the cheque butt;
+        j) To always provide a receipt to a person who gives money to the club for any reason and bank all money received IMMEDIATELY;
+        k) To ensure you have at least two and not more than three signatories who are Executive members to the cheque account;
+        l) To ensure that club funds are not misused at any time; and
+        m) To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained.
+        n) Under no circumstances are any expenses to be met without documentation,
 
       3.9.5 Arc Delegate
         a) To be aware of the Arc funding system, it’s requirements and its possibilities for the club;
@@ -136,7 +141,7 @@ The official constitution of the UNSW Security Society.
     4.4 At an Annual General Meeting:
       4.4.1 Reports shall be presented by at least the President and the Treasurer;
       4.4.2 Full financial reports shall be presented and adopted;
-      4.4.3 Elections for a new Executive shall be conducted; and
+      4.4.3 Elections for a new Executive shall be conducted in accordance with Section 4.14; and
       4.4.4 Constitutional amendments and other motions on notice may be discussed and voted upon.
     4.5 Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
 
@@ -146,16 +151,46 @@ The official constitution of the UNSW Security Society.
     4.8 To petition Extraordinary General Meeting fifteen (15) members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
     4.9 Such a petitioned meeting must be held within twenty­one (21) days, but no sooner than seven (7) days.
     4.10 There shall be other general meetings of the club as the Executive sees fit.
+    4.11 Proxies are not allowed at General, Annual General or Extraordinary General Meetings.
 
     Meetings
     4.11 General requirements for all meetings are as follows:
-      4.11.1 All voting at meetings shall be with a simple majority required for a resolution to be passed;
-      4.11.2 Each member is entitled to one vote;
-      4.11.3 Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
-      4.11.4 In the case of equality of voting the President shall have a casting vote;
-      4.11.5 Elections for Executive shall use the “first past the post” system;
-      4.11.6 Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
-      4.11.7 Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
+      4.11.1 All Executive Resolutions (Voting) at meetings shall subject to requirements outlined in Section 4.13; and
+      4.11.2 Meetings shall be conducted in accordance with Section 4.12; and
+      4.11.3 Approved minutes of Executive meetings shall be available to members;
+    4.12 Meetings shall be conducted:
+      4.12.1 At least once per month; and
+        4.12.1.1 Unless otherwise agreed upon by a majority of the executive
+      4.12.2 When called upon by the President; and
+      4.12.3 When requested by 3 members of the Committee; and
+      4.12.4 In open session unless the Executive resolves to discuss a matter in closed session.
+        4.12.4.1 Open session meetings are to be publicised a week in advance to the meeting date.
+
+    4.13 Valid Executive Resolutions shall require:
+      4.13.1. That the matter to be dealt with by resolution be identified as an agenda item when notice of the relevant meeting is sent to executive members, unless by unanimous resolution of present voting executive members, it is declared the matter shall be dealt with.
+      4.13.2. That at least 50% of voting members of the executive be present when the resolution is passed.
+      4.13.3. A simple majority of present voting executive members to vote in favour of the resolution. In the event of a tie, the President shall have the casting vote. Executive members not present at the relevant meeting may nominate in advance another voting Executive member to act as their proxy. Each voting Executive may only carry one proxy.
+      4.13.4. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
+      4.13.5. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
+
+    Election
+    4.14. At least 3 weeks prior to the AGM date:
+      4.14.1. Notice of the AGM and nomination procedure shall be given to members,
+      4.14.2. A Returning Officer shall be appointed by the Executive, and
+      4.14.3. Nominations shall be accepted.
+    4.15. Members will nominate their candidacy to the Returning Officer in portfolio(s) in order of preference
+      4.15.1. Candidates must not run in coalitions
+      4.15.2. Candidates must not campaign until 5 days prior to the AGM
+    4.16. 5 days prior to the AGM, an official ballot shall be sent to members
+      4.16.1. The order of candidates for each portfolio will be random
+      4.16.2. The ballot will disclose the preferred portfolio of each candidate
+      4.16.3. Campaigning for election at an Annual General Meeting will take place subject to the following procedures:
+        4.16.3.1. The outgoing President may not support or criticise any candidate for election
+    4.17. Additional nominations received at the AGM are valid
+    4.18. Voting is to be conducted at the AGM:
+      4.18.1. Optional preferential voting shall be used
+      4.18.2. Voting for all portfolios shall be conducted simultaneously
+      4.18.3. If a candidate wins more than one portfolio, the candidate shall be elected to their most preferred portfolio, and votes for the vacated portfolio shall be counted again.
 
 # 5 FINANCE
     5.1 The club shall hold an account with a financial institution approved by Arc.
