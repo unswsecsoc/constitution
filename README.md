@@ -54,7 +54,6 @@ The official constitution of the UNSW Security Society.
     3.4 The Executive shall be responsible for the following duties:
       3.4.1 The activities of the club;
       3.4.2 The finances of the club;
-      3.4.3 Appointing members to the Committee; a) Appointments will be made by majority vote of the executive.
       3.5 The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
     3.6 Any member of the Executive shall have their position declared vacant if they:
       3.6.1 Die;
@@ -67,16 +66,13 @@ The official constitution of the UNSW Security Society.
         3.6.5.2 The Executive, or
         3.6.5.3 Any other supplementary regulations.
         3.6.5.4 Unless exempted unanimously by the Executive.
-      3.6.5 Have their position declared vacant at an Extraordinary General Meeting.
-      3.7 Any member of the Committee shall have their position declared vacant if they:
-      3.7.1 Meet the criteria outlined in section 3.6; or
-      3.7.2 Are removed from their role by majority vote of the executive.
-      3.8 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
-      3.9 Duties of the following Executive positions shall include but not be limited to:
-      3.9.1 President
+      3.6.6 Have their position declared vacant at an Extraordinary General Meeting.
+      3.7 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
+      3.8 Duties of the following Executive positions shall include but not be limited to:
+      3.8.1 President
         a) To chair all club, Committee, General and Annual General Meetings (held during their term) of the club or society;
         b) To oversee and coordinate the activities and administration of the club;
-        c) To ensure that the elected officers of the club or society perform duties as laid down by the clubs’ Constitution, through regular e­mail updates, regularly advertised meetings, reports and notices and/or regular newsletters;
+        c) To ensure that the elected officers of the club or society perform duties as laid down by the clubs’ Constitution, through regular e­mail updates, regularly advertised mektings, reports and notices and/or regular newsletters;
         d) To ensure that all other tasks necessary for the running of the activities of the society are performed, properly either by doing them or delegating the duties;
         e) To have a thorough knowledge of the club’s or society’s Constitution;
         f) To plan the coming year’s activities;
@@ -91,7 +87,7 @@ The official constitution of the UNSW Security Society.
         o) To pass on their knowledge to their successor; and
         p) Other duties as in accordance with the Constitution of the club.
 
-      3.9.2 Vice President
+      3.8.2 Vice President
         a) In the absence of the President, to chair all meetings (held during their term) of the club or society;
         b) To be responsible for matters relating to sponsorship and funding from outside organisations other than Arc, including but not limited to:
             i. Liaising with such outside organisations,
@@ -99,14 +95,14 @@ The official constitution of the UNSW Security Society.
           iii. Organising events run in conjunction with sponsors;
         c) To arrive at a budget with the Executive;
 
-      3.9.3 Secretary
+      3.8.3 Secretary
         a) To be responsible for receiving and replying to all correspondence on behalf of the club;
         b) To organise meetings, agendas (in consultation with the President), and minutes;
         c) To keep relevant club papers in order;
         d) To coordinate elections; and
         e) To maintain the membership list, updating when changes are made.
 
-      3.9.4 Treasurer
+      3.8.4 Treasurer
         a) To keep and maintain all club financial records;
         b) To hold cheque books, petty cash tins etc;
         c) To keep the club informed of its financial position (at meetings, through regular e­mail reports, or regular newsletter;
@@ -123,13 +119,22 @@ The official constitution of the UNSW Security Society.
         n) To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained.
         o) Under no circumstances are any expenses to be met without documentation,
 
-      3.9.5 Arc Delegate
+      3.8.5 Arc Delegate
         a) To be aware of the Arc funding system, it’s requirements and its possibilities for the club;
         b) To communicate with the Executive before and after each Arc Clubs General Meeting to pass on information (about grants etc);
         c) To liaise with Arc and the club’s Executive;
         d) To have a good working knowledge of Arc forms;
         e) To clear out the club’s pigeonhole in the Arc Resource Centre at least every two weeks; and
         f) To attend Arc Clubs General Meetings or nominate a fellow club member to attend on your behalf, or send advance apologies (taking the form of a written note detailing your name, club, and the date of the meeting you can not attend).
+
+      3.9 Committee Members
+        3.9.1 Committee positions are to be determined by the executive.
+        3.9.2 Committee positions are to be published and outlined to the society members in the Committee Regulations prior to appointing the committee members.
+          3.9.2.1 The Committee Regulations must outline a description of the position and any responsibilities, duties and obligations that position holds.
+        3.9.3 Committee members are to be appointed by a majority vote of the executive
+        3.9.4 Any member of the Committee shall have their position declared vacant if they:
+          3.9.4.1 Meet the criteria outlined in section 3.6; or
+          3.9.4.2 Are removed from their role by majority vote of the executive.
 
 # 4 MEETINGS
 
