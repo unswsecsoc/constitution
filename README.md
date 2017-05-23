@@ -72,7 +72,7 @@ The official constitution of the UNSW Security Society.
       3.8.1 President
         a) To chair all club, Committee, General and Annual General Meetings (held during their term) of the club or society;
         b) To oversee and coordinate the activities and administration of the club;
-        c) To ensure that the elected officers of the club or society perform duties as laid down by the clubs’ Constitution, through regular e­mail updates, regularly advertised mektings, reports and notices and/or regular newsletters;
+        c) To ensure that the elected officers of the club or society perform duties as laid down by the clubs’ Constitution, through regular e­mail updates, regularly advertised meetings, reports and notices and/or regular newsletters;
         d) To ensure that all other tasks necessary for the running of the activities of the society are performed, properly either by doing them or delegating the duties;
         e) To have a thorough knowledge of the club’s or society’s Constitution;
         f) To plan the coming year’s activities;
