@@ -159,13 +159,13 @@ The official constitution of the UNSW Security Society.
         4.13.1.1 Unless otherwise agreed upon by a majority of the executive
       4.13.2 When called upon by the President; and
       4.13.3 When requested by 3 members of the Committee; and
-      4.13.4 In open session unless the Executive resolves to discuss a matter in closed session.
-        4.13.4.1 Open session meetings are to be publicised a week in advance to the meeting date.
+      4.13.4 In open session unless the Executive resolves to discuss a matter in closed session;
+        4.13.4.1 Open session meetings are to be publicised a week in advance to the meeting date;
 
     4.14 Valid Executive Resolutions shall require:
-      4.14.1. That the matter to be dealt with by resolution be identified as an agenda item when notice of the relevant meeting is sent to executive members, unless by unanimous resolution of present voting executive members, it is declared the matter shall be dealt with.
-      4.14.2. That at least 50% of voting members of the executive be present when the resolution is passed.
-      4.14.3. A simple majority of present voting executive members to vote in favour of the resolution. In the event of a tie, the President shall have the casting vote. Executive members not present at the relevant meeting may nominate in advance another voting Executive member to act as their proxy. Each voting Executive may only carry one proxy.
+      4.14.1. That the matter to be dealt with by resolution be identified as an agenda item when notice of the relevant meeting is sent to executive members, unless by unanimous resolution of present voting executive members, it is declared the matter shall be dealt with;
+      4.14.2. That at least 50% of voting members of the executive be present when the resolution is passed;
+      4.14.3. A simple majority of present voting executive members to vote in favour of the resolution. In the event of a tie, the President shall have the casting vote. Executive members not present at the relevant meeting may nominate in advance another voting Executive member to act as their proxy. Each voting Executive may only carry one proxy;
       4.14.4. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
       4.14.5. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
 
@@ -173,29 +173,29 @@ The official constitution of the UNSW Security Society.
     4.15. At least 3 weeks prior to the AGM date:
       4.15.1. Notice of the AGM and nomination procedure shall be given to members,
       4.15.2. A Returning Officer shall be appointed by the Executive, and
-      4.15.3. Nominations shall be accepted.
-    4.16. Members will nominate their candidacy to the Returning Officer in portfolio(s) in order of preference
-      4.16.1. Candidates must not run in coalitions
-      4.16.2. Candidates must not campaign until 5 days prior to the AGM
-    4.17. 5 days prior to the AGM, an official ballot shall be sent to members
-      4.17.1. The order of candidates for each portfolio will be random
-      4.17.2. The ballot will disclose the preferred portfolio of each candidate
-      4.17.3. Campaigning for election at an Annual General Meeting will take place subject to the following procedures:
-        4.17.3.1. The outgoing President may not support or criticise any candidate for election
-    4.18. Additional nominations received at the AGM are valid
-    4.19. Voting is to be conducted at the AGM:
-      4.19.1. Optional preferential voting shall be used
-      4.19.2. Voting for all portfolios shall be conducted simultaneously
+      4.15.3. Nominations shall be accepted;
+    4.16. Members will nominate their candidacy to the Returning Officer in portfolio(s) in order of preference;
+      4.16.1. Candidates must not run in coalitions;
+      4.16.2. Candidates must not campaign until 5 days prior to the AGM;
+    4.17. 5 days prior to the AGM, an official ballot shall be sent to members;
+      4.17.1. The order of candidates for each portfolio will be random;
+      4.17.2. The ballot will disclose the preferred portfolio of each candidate;
+      4.17.3. Campaigning for election at an Annual General Meeting will take place subject to the following procedures:;
+        4.17.3.1. The outgoing President may not support or criticise any candidate for election;
+    4.18. Additional nominations received at the AGM are valid;
+    4.19. Voting is to be conducted at the AGM:;
+      4.19.1. Optional preferential voting shall be used;
+      4.19.2. Voting for all portfolios shall be conducted simultaneously;
       4.19.3. If a candidate wins more than one portfolio, the candidate shall be elected to their most preferred portfolio, and votes for the vacated portfolio shall be counted again.
 
-# 5 FINANCE
-    5.1 The club shall hold an account with a financial institution approved by Arc.
-    5.2 The Executive must approve all accounts and expenditures for payment.
-    5.3 All financial transactions shall require two signatures of members of the Executive.
-    5.4 The club shall nominate three members of the Executive as possible signatories for the account, one of which must be the club Treasurer
+# 5 FINANCE;
+    5.1 The club shall hold an account with a financial institution approved by Arc;
+    5.2 The Executive must approve all accounts and expenditures for payment;
+    5.3 All financial transactions shall require two signatures of members of the Executive;
+    5.4 The club shall nominate three members of the Executive as possible signatories for the account, one of which must be the club Treasurer;
     5.5 The financial records of the club shall be open for inspection by Arc at all times.
 
-# 6 DISSOLUTION
+# 6 DISSOLUTION;
     6.1 Dissolution of the club will occur after the following conditions have been met:
       6.1.1 An Extraordinary General Meeting is petitioned in writing as set out in 4.8;
       6.1.2 Procedures for notification as set out in 4.2 are followed, and the reasons for the proposed dissolution are included with the notification to Arc;
@@ -203,9 +203,9 @@ The official constitution of the UNSW Security Society.
       6.1.4 No other business may be conducted at the meeting to dissolve the club;
       6.1.5 After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten minutes set aside for this purpose;
       6.1.6 A vote is taken and the motion to dissolve lapses if opposed by fifteen (15) or more members of the club;
-      6.1.7 If the motion to dissolve is carried, Arc must be notified within fourteen (14) days.
-    6.2 Dissolution of the club will also occur if the club has been financially and administratively inactive for a period of eighteen (18) months.
-      6.2.1 Arc must give twenty (20) academic days notice in an official Arc publicationand in writing to the last known President before dissolving the club in this way.
+      6.1.7 If the motion to dissolve is carried, Arc must be notified within fourteen (14) days;
+    6.2 Dissolution of the club will also occur if the club has been financially and administratively inactive for a period of eighteen (18) months;
+      6.2.1 Arc must give twenty (20) academic days notice in an official Arc publicationand in writing to the last known President before dissolving the club in this way;
     6.3 On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the club which it perceives would be useful to other Arc­affiliated clubs. The club will be given twenty one (21) days to forward all relevant items to Arc before any action is instigated.
 
 # 7 ADDITIONS
