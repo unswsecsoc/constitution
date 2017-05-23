@@ -61,12 +61,6 @@ The official constitution of the UNSW Security Society.
       3.6.2 Cease to be a member of the club;
       3.6.3 Cease to be a UNSW student;
       3.6.4 Are absent from any three (3) consecutive meetings of the club without apology or leave; or
-        3.6.4.1 Unless exempted unanimously by the Executive.
-      3.6.5 The person fails to fulfil reasonable obligations delegated by:
-        3.6.5.1 The Constitution, or
-        3.6.5.2 The Executive, or
-        3.6.5.3 Any other supplementary regulations.
-        3.6.5.4 Unless exempted unanimously by the Executive.
       3.6.5 Have their position declared vacant at an Extraordinary General Meeting.
       3.7 Any member of the Committee shall have their position declared vacant if they:
       3.7.1 Meet the criteria outlined in section 3.6; or
@@ -115,12 +109,13 @@ The official constitution of the UNSW Security Society.
         f) To always ensure that the records are up to date and in good order so that if they are otherwise unable to continue in that capacity someone else can easily take over;
         g) To not put the club in debt that cannot be repaid, but should endeavour to match costs and income as closely as possible;
         h) To always insist on a receipt or docket to validate any expenditure by the club;
-        i) To always enter the payees name, the cheque amount and a brief explanation of the payment on the cheque butt;
-        j) To always provide a receipt to a person who gives money to the club for any reason and bank all money received IMMEDIATELY;
-        k) To ensure you have at least two and not more than three signatories who are Executive members to the cheque account;
-        l) To ensure that club funds are not misused at any time; and
-        m) To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained.
-        n) Under no circumstances are any expenses to be met without documentation,
+        i) To pay all accounts by cheque;
+        j) To always enter the payees name, the cheque amount and a brief explanation of the payment on the cheque butt;
+        k) To always provide a receipt to a person who gives money to the club for any reason and bank all money received IMMEDIATELY;
+        l) To ensure you have at least two and not more than three signatories who are Executive members to the cheque account;
+        m) To ensure that club funds are not misused at any time; and
+        n) To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained.
+        o) Under no circumstances are any expenses to be met without documentation,
 
       3.9.5 Arc Delegate
         a) To be aware of the Arc funding system, it’s requirements and its possibilities for the club;
