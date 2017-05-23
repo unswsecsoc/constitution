@@ -3,7 +3,7 @@
 The official constitution of the UNSW Security Society.
 
 # 1 INTRODUCTION
-    1.1 The official name of the club shall be “The Security Society of UNSW”.
+    1.1 The official name of the club shall be "The Security Society of UNSW".
     1.2 The club shall be affiliated to Arc.
     1.3 The aims and objectives of the club are:
       1.3.1 Spreading awareness of security in its many forms, including computer and real life.
@@ -22,7 +22,7 @@ The official constitution of the UNSW Security Society.
       1.5.6 The Executive shall mean the Executive of the club;
       1.5.7 The Committee shall mean the Executive of the club as well as any member appointed by the Executive to fill a specific role;
       1.5.8 The Annual General Meeting shall mean the Annual General Meeting of the club;
-      1.5.9 An academic day shall mean a day during the first or second session of the University’s academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; and
+      1.5.9 An academic day shall mean a day during the first or second session of the University's academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; and
       1.5.10 Subjects shall mean units of study offered by the University in progression to the award of a degree.
     1.6 Unless a contrary statement appears in Section 7 of this Constitution, the club shall be bound by all the clauses in Section 2 to Section 6 of this Constitution.
 
@@ -31,8 +31,8 @@ The official constitution of the UNSW Security Society.
     2.2 The club shall be recognized as a Financial club.
     2.3 Full membership of the club shall be open to all UNSW students subject to affiliation requirements of Arc, and they shall be required to pay an annual club membership fee of at least $0, and complete a membership form.
     2.4 Associate membership shall be open to all persons who are not UNSW students subject to affiliation requirements of Arc, provided that they pay a membership fee that is set by the club Executive, and they complete a membership form prepared by the club Executive.
-    2.5 The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Session One of the University year after they have become a member, whichever is the later.
-    2.6 The club shall comply with Anti­Discrimination legislation in all of its activities and procedures, including the granting of club membership.
+    2.5 The duration of a person's membership shall be until the club's next Annual General Meeting after they have become a member, or until the end of Week One in Session One of the University year after they have become a member, whichever is the later.
+    2.6 The club shall comply with anti-discrimination legislation in all of its activities and procedures, including the granting of club membership.
     2.7 Notwithstanding clause 2.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.6.
     2.8 Notwithstanding clause 2.8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
       2.8.1 A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
@@ -70,17 +70,17 @@ The official constitution of the UNSW Security Society.
       3.9.1 President
         a) To chair all club, Committee, General and Annual General Meetings (held during their term) of the club or society;
         b) To oversee and coordinate the activities and administration of the club;
-        c) To ensure that the elected officers of the club or society perform duties as laid down by the clubs’ Constitution, through regular e­mail updates, regularly advertised meetings, reports and notices and/or regular newsletters;
+        c) To ensure that the elected officers of the club or society perform duties as laid down by the clubs' Constitution, through regular email updates, regularly advertised meetings, reports and notices and/or regular newsletters;
         d) To ensure that all other tasks necessary for the running of the activities of the society are performed, properly either by doing them or delegating the duties;
-        e) To have a thorough knowledge of the club’s or society’s Constitution;
-        f) To plan the coming year’s activities;
+        e) To have a thorough knowledge of the club's or society's Constitution;
+        f) To plan the coming year's activities;
         g) To act as official spokesperson for the club;
         h) To arrive at a membership fee with the Executive;
         i) To liaise with fellow office bearers;
         j) To acquaint each committee member with their function, responsibility, duties and maintain personal contact with them;
         k) To liaise with Arc and departments of the University where necessary;
-        l) To ensure that an “Application for Affiliation” form accompanied by the minutes of the most recent Annual General Meeting and an updated membership list is submitted to Arc;
-        m) To ensure that the Treasurer submits a Financial Report to the club at the AGM and to Arc and that they have the club’s finances in good order in preparation for Spot Audits by Arc;
+        l) To ensure that an "Application for Affiliation" form accompanied by the minutes of the most recent Annual General Meeting and an updated membership list is submitted to Arc;
+        m) To ensure that the Treasurer submits a Financial Report to the club at the AGM and to Arc and that they have the club's finances in good order in preparation for Spot Audits by Arc;
         n) To ensure that Arc is informed of changes to the Executive;
         o) To pass on their knowledge to their successor; and
         p) Other duties as in accordance with the Constitution of the club.
@@ -103,7 +103,7 @@ The official constitution of the UNSW Security Society.
       3.9.4 Treasurer
         a) To keep and maintain all club financial records;
         b) To hold cheque books, petty cash tins etc;
-        c) To keep the club informed of its financial position (at meetings, through regular e­mail reports, or regular newsletter;
+        c) To keep the club informed of its financial position (at meetings, through regular email reports, or regular newsletter;
         d) To carry out financial transactions as directed by the club management;
         e) To not lend money, under any circumstances to yourself, club members or other clubs;
         f) To always ensure that the records are up to date and in good order so that if they are otherwise unable to continue in that capacity someone else can easily take over;
@@ -118,11 +118,11 @@ The official constitution of the UNSW Security Society.
         o) Under no circumstances are any expenses to be met without documentation,
 
       3.9.5 Arc Delegate
-        a) To be aware of the Arc funding system, it’s requirements and its possibilities for the club;
+        a) To be aware of the Arc funding system, its requirements and its possibilities for the club;
         b) To communicate with the Executive before and after each Arc Clubs General Meeting to pass on information (about grants etc);
-        c) To liaise with Arc and the club’s Executive;
+        c) To liaise with Arc and the club's Executive;
         d) To have a good working knowledge of Arc forms;
-        e) To clear out the club’s pigeonhole in the Arc Resource Centre at least every two weeks; and
+        e) To clear out the club's pigeonhole in the Arc Resource Centre at least every two weeks; and
         f) To attend Arc Clubs General Meetings or nominate a fellow club member to attend on your behalf, or send advance apologies (taking the form of a written note detailing your name, club, and the date of the meeting you can not attend).
 
 # 4 MEETINGS
@@ -144,7 +144,7 @@ The official constitution of the UNSW Security Society.
     4.6 There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 4.8.
     4.7 The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
     4.8 To petition Extraordinary General Meeting fifteen (15) members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
-    4.9 Such a petitioned meeting must be held within twenty­one (21) days, but no sooner than seven (7) days.
+    4.9 Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than seven (7) days.
     4.10 There shall be other general meetings of the club as the Executive sees fit.
 
     Meetings
@@ -153,7 +153,7 @@ The official constitution of the UNSW Security Society.
       4.11.2 Each member is entitled to one vote;
       4.11.3 Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
       4.11.4 In the case of equality of voting the President shall have a casting vote;
-      4.11.5 Elections for Executive shall use the “first past the post” system;
+      4.11.5 Elections for Executive shall use the "first past the post" system;
       4.11.6 Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
       4.11.7 Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
 
@@ -168,14 +168,14 @@ The official constitution of the UNSW Security Society.
     6.1 Dissolution of the club will occur after the following conditions have been met:
       6.1.1 An Extraordinary General Meeting is petitioned in writing as set out in 4.8;
       6.1.2 Procedures for notification as set out in 4.2 are followed, and the reasons for the proposed dissolution are included with the notification to Arc;
-      6.1.3 Quorum for the meeting to dissolve the club shall be twenty (20) members or three­quarters of the club membership, whichever is the lesser;
+      6.1.3 Quorum for the meeting to dissolve the club shall be twenty (20) members or three-quarters of the club membership, whichever is the lesser;
       6.1.4 No other business may be conducted at the meeting to dissolve the club;
       6.1.5 After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten minutes set aside for this purpose;
       6.1.6 A vote is taken and the motion to dissolve lapses if opposed by fifteen (15) or more members of the club;
       6.1.7 If the motion to dissolve is carried, Arc must be notified within fourteen (14) days.
     6.2 Dissolution of the club will also occur if the club has been financially and administratively inactive for a period of eighteen (18) months.
-      6.2.1 Arc must give twenty (20) academic days notice in an official Arc publicationand in writing to the last known President before dissolving the club in this way.
-    6.3 On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the club which it perceives would be useful to other Arc­affiliated clubs. The club will be given twenty one (21) days to forward all relevant items to Arc before any action is instigated.
+      6.2.1 Arc must give twenty (20) academic days notice in an official Arc publication and in writing to the last known President before dissolving the club in this way.
+    6.3 On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the club which it perceives would be useful to other Arc-affiliated clubs. The club will be given twenty one (21) days to forward all relevant items to Arc before any action is instigated.
 
 # 7 ADDITIONS
     Please number any additions or alterations to this Constitution starting with 7.1, and ensure that a copy is submitted to Arc with your affiliation. Additions or alterations to this Constitution do not become valid unless ratified by Arc.
