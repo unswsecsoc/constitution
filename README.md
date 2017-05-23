@@ -61,6 +61,12 @@ The official constitution of the UNSW Security Society.
       3.6.2 Cease to be a member of the club;
       3.6.3 Cease to be a UNSW student;
       3.6.4 Are absent from any three (3) consecutive meetings of the club without apology or leave; or
+        3.6.4.1 Unless exempted unanimously by the Executive.
+      3.6.5 The person fails to fulfil reasonable obligations delegated by:
+        3.6.5.1 The Constitution, or
+        3.6.5.2 The Executive, or
+        3.6.5.3 Any other supplementary regulations.
+        3.6.5.4 Unless exempted unanimously by the Executive.
       3.6.5 Have their position declared vacant at an Extraordinary General Meeting.
       3.7 Any member of the Committee shall have their position declared vacant if they:
       3.7.1 Meet the criteria outlined in section 3.6; or
