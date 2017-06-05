@@ -137,6 +137,7 @@ The official constitution of the UNSW Security Society.
       4.4.2 Full financial reports shall be presented and adopted;
       4.4.3 Elections for a new Executive shall be conducted; and
       4.4.4 Constitutional amendments and other motions on notice may be discussed and voted upon.
+
     4.5 Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
 
     Extraordinary General Meetings
@@ -148,13 +149,15 @@ The official constitution of the UNSW Security Society.
 
     Meetings
     4.11 General requirements for all meetings are as follows:
-      4.11.1 All voting at meetings shall be with a simple majority required for a resolution to be passed;
+      4.11.1 All non elective voting at meetings shall be with a simple majority required for a resolution to be passed;
       4.11.2 Each member is entitled to one vote;
-      4.11.3 Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
-      4.11.4 In the case of equality of voting the President shall have a casting vote;
-      4.11.5 Elections for Executive shall use the “first past the post” system;
+      4.11.3 Each member is entitled to designate a non executive member of the society to act as a proxy for their vote in the election of new executives;
+      4.11.4 Elections for Executive shall use the “Instant Run Off” system, whereby voters will list preferences on a card that is collected by the arbitrator. Before Voting, the arbitrator will mark the cards of proxy holders with the number of total votes they carry;
+      4.11.5 In the case of equality of voting the President shall have a casting vote;
       4.11.6 Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
-      4.11.7 Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
+      4.11.7 Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc;
+      4.11.8 Society Members are entitled to sit in on all meetings unless due notice and reason is given.
+
 
 # 5 FINANCE
     5.1 The club shall hold an account with a financial institution approved by Arc.
@@ -178,4 +181,3 @@ The official constitution of the UNSW Security Society.
 
 # 7 ADDITIONS
     Please number any additions or alterations to this Constitution starting with 7.1, and ensure that a copy is submitted to Arc with your affiliation. Additions or alterations to this Constitution do not become valid unless ratified by Arc.
-
