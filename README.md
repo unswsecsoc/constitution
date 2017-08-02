@@ -55,18 +55,18 @@ The official constitution of the UNSW Security Society.
       3.4.1 The activities of the club;
       3.4.2 The finances of the club;
       3.4.3 Appointing members to the Committee; a) Appointments will be made by majority vote of the executive.
-      3.5 The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
+    3.5 The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
     3.6 Any member of the Executive shall have their position declared vacant if they:
       3.6.1 Die;
       3.6.2 Cease to be a member of the club;
       3.6.3 Cease to be a UNSW student;
       3.6.4 Are absent from any three (3) consecutive meetings of the club without apology or leave; or
       3.6.5 Have their position declared vacant at an Extraordinary General Meeting.
-      3.7 Any member of the Committee shall have their position declared vacant if they:
+    3.7 Any member of the Committee shall have their position declared vacant if they:
       3.7.1 Meet the criteria outlined in section 3.6; or
       3.7.2 Are removed from their role by majority vote of the executive.
-      3.8 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
-      3.9 Duties of the following Executive positions shall include but not be limited to:
+    3.8 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
+    3.9 Duties of the following Executive positions shall include but not be limited to:
       3.9.1 President
         a) To chair all club, Committee, General and Annual General Meetings (held during their term) of the club or society;
         b) To oversee and coordinate the activities and administration of the club;
