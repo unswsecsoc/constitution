@@ -94,6 +94,14 @@ The official constitution of the UNSW Security Society.
            ii. Establishing the sponsorship proposal for the year, and
           iii. Organising events run in conjunction with sponsors;
         c) To arrive at a budget with the Executive;
+        d) To assist the President in coordinating the activities and administration of the Club;
+        e) To have a thorough knowledge of the Club’s constitution;
+        f) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements;
+        g) To ensure that motions made at any Meeting of the Club are reflective
+        of the constitution;
+        h) To ensure that Arc is informed of any changes to the Executive;
+        i) To liaise with fellow office bearers; and
+        j) To assist the President in their duties wherever practical.
 
       3.8.3 Secretary
         a) To be responsible for receiving and replying to all correspondence on behalf of the club;
