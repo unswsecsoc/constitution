@@ -185,11 +185,12 @@ The official constitution of the UNSW Security Society.
       4.15.2. Optional preferential voting shall be used;
       4.15.3. Voting for all portfolios shall be conducted simultaneously (where applicable);
       4.15.4. If a candidate wins more than one portfolio, the candidate shall be elected to their most preferred portfolio, and votes for the vacated portfolio shall be counted again.
+      4.15.5. Nominations will be open at least 2 weeks before the election.
+      4.15.6. Nominations will close at least 1 week before the election.
     4.16 AGM Elections
       4.16.1 At least 3 weeks prior to the AGM date:
         4.16.1.1 Notice of the AGM and nomination procedure shall be given to members,
         4.16.1.2 A Returning Officer shall be appointed by the Executive, and
-        4.16.1.3 Nominations shall be accepted;
       4.16.2 Members will nominate their candidacy to the Returning Officer in portfolio(s) in order of preference;
         4.16.2.1 Candidates must not run in coalitions;
         4.16.2.2 Candidates must not campaign until 7 days prior to the AGM;
