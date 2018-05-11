@@ -180,23 +180,24 @@ The official constitution of the UNSW Security Society.
       4.14.5. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
 
     Election
-    4.15. At least 3 weeks prior to the AGM date:
-      4.15.1. Notice of the AGM and nomination procedure shall be given to members,
-      4.15.2. A Returning Officer shall be appointed by the Executive, and
-      4.15.3. Nominations shall be accepted;
-    4.16. Members will nominate their candidacy to the Returning Officer in portfolio(s) in order of preference;
-      4.16.1. Candidates must not run in coalitions;
-      4.16.2. Candidates must not campaign until 5 days prior to the AGM;
-    4.17. 5 days prior to the AGM, an official ballot shall be sent to members;
-      4.17.1. The order of candidates for each portfolio will be random;
-      4.17.2. The ballot will disclose the preferred portfolio of each candidate;
-      4.17.3. Campaigning for election at an Annual General Meeting will take place subject to the following procedures:;
-        4.17.3.1. The outgoing President may not support or criticise any candidate for election;
-    4.18. Additional nominations received at the AGM are valid;
-    4.19. Voting is to be conducted at the AGM:;
-      4.19.1. Optional preferential voting shall be used;
-      4.19.2. Voting for all portfolios shall be conducted simultaneously;
-      4.19.3. If a candidate wins more than one portfolio, the candidate shall be elected to their most preferred portfolio, and votes for the vacated portfolio shall be counted again.
+    4.15 Elections of executive will be conducted at the Annual General Meeting (or Extraordinary General Meetings where relevant), or through an online process that satisifies the election requirements set out in this constitution.
+      4.15.1. The results of the online elections shall be declared at a General Meeting held within 14 days of the conclusion of voting.
+      4.15.2. Optional preferential voting shall be used;
+      4.15.3. Voting for all portfolios shall be conducted simultaneously (where applicable);
+      4.15.4. If a candidate wins more than one portfolio, the candidate shall be elected to their most preferred portfolio, and votes for the vacated portfolio shall be counted again.
+    4.16 AGM Elections
+      4.16.1 At least 3 weeks prior to the AGM date:
+        4.16.1.1 Notice of the AGM and nomination procedure shall be given to members,
+        4.16.1.2 A Returning Officer shall be appointed by the Executive, and
+        4.16.1.3 Nominations shall be accepted;
+      4.16.2 Members will nominate their candidacy to the Returning Officer in portfolio(s) in order of preference;
+        4.16.2.1 Candidates must not run in coalitions;
+        4.16.2.2 Candidates must not campaign until 7 days prior to the AGM;
+      4.16.3 7 days prior to the AGM, an official ballot shall be sent to members;
+        4.16.3.1 The order of candidates for each portfolio will be random;
+        4.16.3.2 The ballot will disclose the preferred portfolio of each candidate;
+        4.16.3.3 Campaigning for election at an Annual General Meeting will take place subject to the following procedures:;
+          4.16.3.3.1 The outgoing President may not support or criticise any candidate for election;
 
 # 5 FINANCE;
     5.1 The club shall hold an account with a financial institution approved by Arc;
