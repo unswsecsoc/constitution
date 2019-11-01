@@ -93,15 +93,18 @@ The official constitution of the UNSW Security Society.
             i. Liaising with such outside organisations,
            ii. Establishing the sponsorship proposal for the year, and
           iii. Organising events run in conjunction with sponsors;
-        c) To arrive at a budget with the Executive;
-        d) To assist the President in coordinating the activities and administration of the Club;
-        e) To have a thorough knowledge of the Club’s constitution;
-        f) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements;
+        c) To be responsible for matters relating to grievances, including but not limited to:
+            i. To receive complaints and grievances relating to the Club,
+           ii. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances,
+          iii. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially, and
+           iv. To notify those involved of the outcome of the grievance;
+        d) To arrive at a budget with the Executive;
+        e) To assist the President in coordinating the activities and administration of the Club;
+        f) To have a thorough knowledge of the Club’s constitution;
         g) To ensure that motions made at any Meeting of the Club are reflective
         of the constitution;
-        h) To ensure that Arc is informed of any changes to the Executive;
-        i) To liaise with fellow office bearers; and
-        j) To assist the President in their duties wherever practical.
+        h) To liaise with fellow office bearers; and
+        i) To assist the President in their duties wherever practical.
 
       3.8.3 Secretary
         a) To be responsible for receiving and replying to all correspondence on behalf of the club;
@@ -133,6 +136,8 @@ The official constitution of the UNSW Security Society.
         d) To have a good working knowledge of Arc forms;
         e) To clear out the club’s pigeonhole in the Arc Resource Centre at least every two weeks; and
         f) To attend Arc Clubs General Meetings or nominate a fellow club member to attend on your behalf, or send advance apologies (taking the form of a written note detailing your name, club, and the date of the meeting you can not attend).
+        g) To ensure that Arc is informed of any changes to the Executive;
+        h) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements;
 
       3.9 Committee Members
         3.9.1 Committee positions are to be determined by the executive.
@@ -230,5 +235,7 @@ The official constitution of the UNSW Security Society.
     6.3 On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the club which it perceives would be useful to other Arc­affiliated clubs. The club will be given twenty one (21) days to forward all relevant items to Arc before any action is instigated.
 
 # 7 ADDITIONS
-    Please number any additions or alterations to this Constitution starting with 7.1, and ensure that a copy is submitted to Arc with your affiliation. Additions or alterations to this Constitution do not become valid unless ratified by Arc.
+    7.1 As per new requirements from Arc, the executive team of the club are now responsible for the maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure.
+    
+    Please number any further additions or alterations to this Constitution starting with 7.2, and ensure that a copy is submitted to Arc with your affiliation. Additions or alterations to this Constitution do not become valid unless ratified by Arc.
 
