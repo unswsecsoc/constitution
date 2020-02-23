@@ -246,6 +246,6 @@ The official constitution of the UNSW Security Society.
 
 # 7 ADDITIONS
     7.1 As per new requirements from Arc, the executive team of the club are now responsible for the maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure.
-    
+
     Please number any further additions or alterations to this Constitution starting with 7.2, and ensure that a copy is submitted to Arc with your affiliation. Additions or alterations to this Constitution do not become valid unless ratified by Arc.
 
