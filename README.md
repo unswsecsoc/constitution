@@ -138,6 +138,8 @@ The official constitution of the UNSW Security Society.
         f) To attend Arc Clubs General Meetings or nominate a fellow club member to attend on your behalf, or send advance apologies (taking the form of a written note detailing your name, club, and the date of the meeting you can not attend).
         g) To ensure that Arc is informed of any changes to the Executive;
         h) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements;
+        i) To ensure a SpArc event is created before every respective society event;
+        j) To ensure a Clubs Grant is submitted after every respective event, where possible as set out by Arc.
 
       3.9 Committee Members
         3.9.1 Committee positions are to be determined by the executive.
