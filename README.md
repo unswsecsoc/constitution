@@ -183,7 +183,8 @@ The official constitution of the UNSW Security Society.
       4.13.2 When called upon by the President; and
       4.13.3 When requested by 3 members of the Committee; and
       4.13.4 In open session unless the Executive resolves to discuss a matter in closed session;
-        4.13.4.1 Open session meetings are to be publicised a week in advance to the meeting date;
+        4.13.4.1 Open session meetings are to be publicised a week in advance to the meeting date; and
+        4.13.4.2 Are to be held at least once per term.
 
     4.14 Valid Executive Resolutions shall require:
       4.14.1. That the matter to be dealt with by resolution be identified as an agenda item when notice of the relevant meeting is sent to executive members, unless by unanimous resolution of present voting executive members, it is declared the matter shall be dealt with;
