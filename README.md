@@ -192,26 +192,51 @@ The official constitution of the UNSW Security Society.
       4.14.4. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
       4.14.5. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
 
-    Election
-    4.15 Elections of executive will be conducted at the Annual General Meeting (or Extraordinary General Meetings where relevant), or through an online process that satisifies the election requirements set out in this constitution.
-      4.15.1. The results of the online elections shall be declared at a General Meeting held within 14 days of the conclusion of voting.
-      4.15.2. Optional preferential voting shall be used;
-      4.15.3. Voting for all portfolios shall be conducted simultaneously (where applicable);
-      4.15.4. If a candidate wins more than one portfolio, the candidate shall be elected to their most preferred portfolio, and votes for the vacated portfolio shall be counted again.
-      4.15.5. Nominations will be open at least 2 weeks before the election.
-      4.15.6. Nominations will close at least 1 week before the election.
-    4.16 AGM Elections
-      4.16.1 At least 3 weeks prior to the AGM date:
-        4.16.1.1 Notice of the AGM and nomination procedure shall be given to members,
-        4.16.1.2 A Returning Officer shall be appointed by the Executive, and
-      4.16.2 Members will nominate their candidacy to the Returning Officer in portfolio(s) in order of preference;
-        4.16.2.1 Candidates must not run in coalitions;
-        4.16.2.2 Candidates must not campaign until 7 days prior to the AGM;
-      4.16.3 7 days prior to the AGM, an official ballot shall be sent to members;
-        4.16.3.1 The order of candidates for each portfolio will be random;
-        4.16.3.2 The ballot will disclose the preferred portfolio of each candidate;
-        4.16.3.3 Campaigning for election at an Annual General Meeting will take place subject to the following procedures:;
-          4.16.3.3.1 The outgoing President may not support or criticise any candidate for election;
+    Elections
+    4.15 Elections of executive will be conducted at the Annual General Meeting (or Extraordinary General Meetings where relevant) following the requirements set out in this constitution.
+    4.16 Elections requirements are stated as follows;
+      4.16.1 Optional preferential voting shall be used;
+      4.16.2 Voting for all positions shall be conducted simultaneously (where applicable);
+      4.16.3 A Returning Officer shall be appointed by the Executive, informed by the first notice of the election;
+      4.16.4 Members who nominate themselves for candidacy for more than one position must provide an order of preference;
+      4.16.5 If a candidate wins more than one position, the candidate shall be elected to their most preferred position, and votes for the vacated position(s) shall be counted again (unless there are no other candidates in the vacated position).
+      4.16.6 If nominations are taken in advance:;
+        4.16.6.1 All eligible members must receive notice of the nominations period before its commencement, as well as details of the nomination process.
+        4.16.6.2 Nominations must be open for at least 7 days.
+        4.16.6.3 Members who wish to submit themselves as nomination candidate:;
+          4.16.6.3.1 Must do so directly to the Returning Officer;
+          4.16.6.3.2 Must confirm their nomination by emailing the returning officer using their UNSW email, before voting begins.
+        4.16.6.4 Only the returning officer may view the list of nominations until nominations have closed.
+        4.16.6.5 At the start of the voting period:;
+          4.16.6.5.1 An official ballot shall be sent to members;
+          4.16.6.5.2 The ballot will disclose the preferred position of each confirmed candidate;
+          4.16.6.5.3 The order of candidates for each position on the ballot will be random;
+        4.16.6.6 For any position for which there are no confirmed candidates at the close of nominations, nominations for those positions will be valid if received at the General Meeting.
+    4.17 All election candidates:;
+      4.17.1 Must not run in coalitions.
+      4.17.2 May campaign for their positions subject to the following procedures:;
+        4.17.2.1 The current or outgoing executives, or committee may not support or criticise any candidate for election;
+      4.17.3 At the General Meeting at which the election was held (unless they are the only candidate for a position), will have their elected position given to the next candidate in line if:
+        4.17.3.1 They do not attend (unless the candidate has given an excuse).
+        4.17.3.2 They wish to no longer accept their position.
+    4.18 Elections may take place as one of the following forms, provided they satisfy all existing election requirements as set out in this constitution and their requirements as set out below:
+      4.18.1 Ballot Elections
+        4.18.1.1 Nominations will be open at least 1 week before the election, and close the day before the election;
+        4.18.1.2 Additional nominations received at the General Meeting are valid;
+        4.18.1.3 All present members shall be provided a paper ballot;
+        4.18.1.4 Candidates may campaign at the meeting before voting begins. If unable to do so, the Returning Officer shall read out their blurb, if any was provided.
+      4.18.2 Online Elections
+        4.18.2.1 At least 2 weeks before the election;
+          4.18.2.1.1 Nominations will open,
+          4.18.2.1.2 and members will be notified that they need to sign up to the society on SpArc before voting begins to be eligible to vote.
+        4.18.2.2 At least 1 week before the election;
+          4.18.2.2.1 Nominations will close,
+          4.18.2.2.2 candidates may start campaigning,
+          4.18.2.2.3 and voting will begin, where official ballots shall only be sent to all members who have signed up to the society on SpArc.
+        4.18.2.3 The results are to be declared at a General Meeting held within 14 days of the conclusion of voting.
+    4.19 AGM Elections
+      4.19.1 At least 3 weeks prior to the AGM date, notice of the AGM and nomination procedure shall be given to members.
+      4.19.2 7 days prior to the AGM, the official voting ballot shall be sent to members;
 
 # 5 FINANCE;
     5.1 The club shall hold an account with a financial institution approved by Arc;
@@ -236,6 +261,6 @@ The official constitution of the UNSW Security Society.
 
 # 7 ADDITIONS
     7.1 As per new requirements from Arc, the executive team of the club are now responsible for the maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure.
-    
+
     Please number any further additions or alterations to this Constitution starting with 7.2, and ensure that a copy is submitted to Arc with your affiliation. Additions or alterations to this Constitution do not become valid unless ratified by Arc.
 
