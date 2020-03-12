@@ -1,4 +1,4 @@
-# security society constitution
+# Security Society Constitution
 
 The official constitution of the UNSW Security Society.
 
