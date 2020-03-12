@@ -101,8 +101,7 @@ The official constitution of the UNSW Security Society.
         d) To arrive at a budget with the Executive;
         e) To assist the President in coordinating the activities and administration of the Club;
         f) To have a thorough knowledge of the Club's constitution;
-        g) To ensure that motions made at any Meeting of the Club are reflective
-        of the constitution;
+        g) To ensure that motions made at any Meeting of the Club are reflective of the constitution;
         h) To liaise with fellow office bearers; and
         i) To assist the President in their duties wherever practical.
 
@@ -186,11 +185,11 @@ The official constitution of the UNSW Security Society.
         4.13.4.1 Open session meetings are to be publicised a week in advance to the meeting date;
 
     4.14 Valid Executive Resolutions shall require:
-      4.14.1. That the matter to be dealt with by resolution be identified as an agenda item when notice of the relevant meeting is sent to executive members, unless by unanimous resolution of present voting executive members, it is declared the matter shall be dealt with;
-      4.14.2. That at least 50% of voting members of the executive be present when the resolution is passed;
-      4.14.3. A simple majority of present voting executive members to vote in favour of the resolution. In the event of a tie, the President shall have the casting vote. Executive members not present at the relevant meeting may nominate in advance another voting Executive member to act as their proxy. Each voting Executive may only carry one proxy;
-      4.14.4. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
-      4.14.5. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
+      4.14.1 That the matter to be dealt with by resolution be identified as an agenda item when notice of the relevant meeting is sent to executive members, unless by unanimous resolution of present voting executive members, it is declared the matter shall be dealt with;
+      4.14.2 That at least 50% of voting members of the executive be present when the resolution is passed;
+      4.14.3 A simple majority of present voting executive members to vote in favour of the resolution. In the event of a tie, the President shall have the casting vote. Executive members not present at the relevant meeting may nominate in advance another voting Executive member to act as their proxy. Each voting Executive may only carry one proxy;
+      4.14.4 Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
+      4.14.5 Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
 
     Elections
     4.15 Elections of executive will be conducted at the Annual General Meeting (or Extraordinary General Meetings where relevant) following the requirements set out in this constitution.
