@@ -54,7 +54,7 @@ The official constitution of the UNSW Security Society.
     3.4 The Executive shall be responsible for the following duties:
       3.4.1 The activities of the club;
       3.4.2 The finances of the club;
-      3.5 The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
+    3.5 The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
     3.6 Any member of the Executive shall have their position declared vacant if they:
       3.6.1 Die;
       3.6.2 Cease to be a member of the club;
@@ -67,8 +67,8 @@ The official constitution of the UNSW Security Society.
         3.6.5.3 Any other supplementary regulations.
         3.6.5.4 Unless exempted unanimously by the Executive.
       3.6.6 Have their position declared vacant at an Extraordinary General Meeting.
-      3.7 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
-      3.8 Duties of the following Executive positions shall include but not be limited to:
+    3.7 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
+    3.8 Duties of the following Executive positions shall include but not be limited to:
       3.8.1 President
         a) To chair all club, Committee, General and Annual General Meetings (held during their term) of the club or society;
         b) To oversee and coordinate the activities and administration of the club;
@@ -139,14 +139,14 @@ The official constitution of the UNSW Security Society.
         g) To ensure that Arc is informed of any changes to the Executive;
         h) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements;
 
-      3.9 Committee Members
-        3.9.1 Committee positions are to be determined by the executive.
-        3.9.2 Committee positions are to be published and outlined to the society members in the Committee Regulations prior to appointing the committee members.
-          3.9.2.1 The Committee Regulations must outline a description of the position and any responsibilities, duties and obligations that position holds.
-        3.9.3 Committee members are to be appointed by a majority vote of the executive
-        3.9.4 Any member of the Committee shall have their position declared vacant if they:
-          3.9.4.1 Meet the criteria outlined in section 3.6; or
-          3.9.4.2 Are removed from their role by majority vote of the executive.
+    3.9 Committee Members
+      3.9.1 Committee positions are to be determined by the executive.
+      3.9.2 Committee positions are to be published and outlined to the society members in the Committee Regulations prior to appointing the committee members.
+        3.9.2.1 The Committee Regulations must outline a description of the position and any responsibilities, duties and obligations that position holds.
+      3.9.3 Committee members are to be appointed by a majority vote of the executive
+      3.9.4 Any member of the Committee shall have their position declared vacant if they:
+        3.9.4.1 Meet the criteria outlined in section 3.6; or
+        3.9.4.2 Are removed from their role by majority vote of the executive.
 
 # 4 MEETINGS
 
