@@ -149,7 +149,7 @@ The official constitution of the UNSW Security Society.
 
 # 4 MEETINGS
 
-    Annual General Meetings
+## Annual General Meetings
     4.1 There shall be one Annual General meeting every calendar year.
     4.2 Notice in the form of an agenda for the Annual General Meeting shall be no less than seven (7) days, and is to be:
       4.2.1 Given in writing to Arc;
@@ -162,7 +162,7 @@ The official constitution of the UNSW Security Society.
       4.4.4 Constitutional amendments and other motions on notice may be discussed and voted upon.
     4.5 Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
 
-    Extraordinary General Meetings
+## Extraordinary General Meetings
     4.6 There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 4.8.
     4.7 The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
     4.8 To petition Extraordinary General Meeting fifteen (15) members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
@@ -170,7 +170,7 @@ The official constitution of the UNSW Security Society.
     4.10 There shall be other general meetings of the club as the Executive sees fit.
     4.11 Proxies are not allowed at General, Annual General or Extraordinary General Meetings.
 
-    Meetings
+## Meetings
     4.12 General requirements for all meetings are as follows:
       4.12.1 All Executive Resolutions (Voting) at meetings shall subject to requirements outlined in Section 4.13; and
       4.12.2 Meetings shall be conducted in accordance with Section 4.12; and
@@ -191,7 +191,7 @@ The official constitution of the UNSW Security Society.
       4.14.4 Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
       4.14.5 Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
 
-    Elections
+## Elections
     4.15 Elections of executive will be conducted at the Annual General Meeting (or Extraordinary General Meetings where relevant) following the requirements set out in this constitution.
     4.16 Elections requirements are stated as follows;
       4.16.1 Optional preferential voting shall be used;
