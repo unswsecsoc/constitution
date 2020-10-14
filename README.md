@@ -205,14 +205,14 @@ The official constitution of the UNSW Security Society.
           4.16.6.3.1 Must do so directly to the Returning Officer;
           4.16.6.3.2 Must confirm their nomination by emailing the returning officer using their UNSW email, before voting begins.
         4.16.6.4 Only the returning officer may view the list of nominations until nominations have closed.
-        4.16.6.5 At the start of the voting period:;
+        4.16.6.5 At the start of the voting period:
           4.16.6.5.1 An official ballot shall be sent to members;
           4.16.6.5.2 The ballot will disclose the preferred position of each confirmed candidate;
           4.16.6.5.3 The order of candidates for each position on the ballot will be random;
         4.16.6.6 For any position for which there are no confirmed candidates at the close of nominations, nominations for those positions will be valid if received at the General Meeting.
-    4.17 All election candidates:;
+    4.17 All election candidates:
       4.17.1 Must not run in coalitions.
-      4.17.2 May campaign for their positions subject to the following procedures:;
+      4.17.2 May campaign for their positions subject to the following procedures:
         4.17.2.1 The current or outgoing executives, or committee may not support or criticise any candidate for election;
       4.17.3 At the General Meeting at which the election was held (unless they are the only candidate for a position), will have their elected position given to the next candidate in line if:
         4.17.3.1 They do not attend (unless the candidate has given an excuse).
