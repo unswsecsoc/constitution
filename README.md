@@ -33,8 +33,8 @@ The official constitution of the UNSW Security Society.
     2.4 Associate membership shall be open to all persons who are not UNSW students subject to affiliation requirements of Arc, provided that they pay a membership fee that is set by the club Executive, and they complete a membership form prepared by the club Executive.
     2.5 The duration of a person's membership shall be until the club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
     2.6 The club shall comply with anti-discrimination legislation in all of its activities and procedures, including the granting of club membership.
-    2.7 Notwithstanding clause 2.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.6.
-    2.8 Notwithstanding clause 2.8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
+    2.7 Notwithstanding clause 2.9, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.6.
+    2.8 Notwithstanding clause 2.9, a member or associate member of a club may have their membership terminated after the following procedure is followed:
       2.8.1 A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
       2.8.2 The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
       2.8.3 The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting.
