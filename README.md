@@ -165,7 +165,7 @@ The official constitution of the UNSW Security Society.
 ## Extraordinary General Meetings
     4.6 There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 4.8.
     4.7 The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
-    4.8 To petition Extraordinary General Meeting fifteen (15) members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
+    4.8 To petition for an Extraordinary General Meeting, fifteen (15) members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
     4.9 Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than seven (7) days.
     4.10 There shall be other general meetings of the club as the Executive sees fit.
     4.11 Proxies are not allowed at General, Annual General or Extraordinary General Meetings.
