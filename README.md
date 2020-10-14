@@ -9,7 +9,7 @@ The official constitution of the UNSW Security Society.
       1.3.1 Spreading awareness of security in its many forms, including computer and real life.
       1.3.2 Host events to facilitate the development of skills and knowledge of security.
       1.3.3 Provide networking opportunities between students and companies in the security industry.
-    1.4 In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organizations by N.E.R. Renton shall apply.
+    1.4 In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N.E.R. Renton shall apply.
 
 ## DEFINITIONS
 
