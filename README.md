@@ -22,7 +22,7 @@ The official constitution of the UNSW Security Society.
       1.5.6 The Executive shall mean the Executive of the club;
       1.5.7 The Committee shall mean the Executive of the club as well as any member appointed by the Executive to fill a specific role;
       1.5.8 The Annual General Meeting shall mean the Annual General Meeting of the club;
-      1.5.9 An academic day shall mean a day during the first or second session of the University's academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; and
+      1.5.9 An academic day shall mean a day during the first, second, or third term of the University's academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; and
       1.5.10 Subjects shall mean units of study offered by the University in progression to the award of a degree.
     1.6 Unless a contrary statement appears in Section 7 of this Constitution, the club shall be bound by all the clauses in Section 2 to Section 6 of this Constitution.
 
