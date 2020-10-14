@@ -172,7 +172,7 @@ The official constitution of the UNSW Security Society.
 
 ## Meetings
     4.12 General requirements for all meetings are as follows:
-      4.12.1 All Executive Resolutions (Voting) at meetings shall subject to requirements outlined in Section 4.13; and
+      4.12.1 All Executive Resolutions (Voting) at meetings shall be subject to requirements outlined in Section 4.13; and
       4.12.2 Approved minutes of Executive meetings shall be available to members;
         4.12.2.1 Approved minutes may exclude, however is not limited to excluding: sponsorship discussions, committee nomination discussions and other internal private matters;
     4.13 Meetings shall be conducted:
