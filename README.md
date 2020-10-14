@@ -129,7 +129,7 @@ The official constitution of the UNSW Security Society.
         n) Under no circumstances are any expenses to be met without documentation.
 
       3.8.5 Arc Delegate
-        a) To be aware of the Arc funding system, it's requirements and its possibilities for the club;
+        a) To be aware of the Arc funding system, its requirements and its possibilities for the club;
         b) To communicate with the Executive before and after each Arc Clubs General Meeting to pass on information (about grants etc);
         c) To liaise with Arc and the club's Executive;
         d) To have a good working knowledge of Arc forms;
