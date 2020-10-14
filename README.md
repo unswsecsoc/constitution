@@ -28,7 +28,7 @@ The official constitution of the UNSW Security Society.
 
 # 2 MEMBERSHIP
     2.1 Contact details for members of your club are to remain with the Executive and Arc to have sole access. Contact details are not to be given or sold to any other person.
-    2.2 The club shall be recognized as a Financial club.
+    2.2 The club shall be recognised as a Financial club.
     2.3 Full membership of the club shall be open to all UNSW students subject to affiliation requirements of Arc, and they shall be required to pay an annual club membership fee of at least $0, and complete a membership form.
     2.4 Associate membership shall be open to all persons who are not UNSW students subject to affiliation requirements of Arc, provided that they pay a membership fee that is set by the club Executive, and they complete a membership form prepared by the club Executive.
     2.5 The duration of a person's membership shall be until the club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
