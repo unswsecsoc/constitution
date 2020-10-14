@@ -126,7 +126,7 @@ The official constitution of the UNSW Security Society.
         k) To ensure you have at least two (2) and not more than three (3) signatories who are Executive members to the cheque account;
         l) To ensure that club funds are not misused at any time; and
         m) To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained.
-        n) Under no circumstances are any expenses to be met without documentation,
+        n) Under no circumstances are any expenses to be met without documentation.
 
       3.8.5 Arc Delegate
         a) To be aware of the Arc funding system, it's requirements and its possibilities for the club;
