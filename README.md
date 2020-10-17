@@ -4,7 +4,7 @@ The official constitution of the UNSW Security Society.
 
 # 1 INTRODUCTION
     1.1 The official name of the club shall be "The Security Society of UNSW".
-    1.2 The club shall be affiliated to Arc.
+    1.2 The club shall be affiliated with Arc.
     1.3 The aims and objectives of the club are to:
       1.3.1 Spread awareness of security in its many forms, including computer and real life;
       1.3.2 Host events to facilitate the development of skills and knowledge of security; and
