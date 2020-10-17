@@ -5,9 +5,9 @@ The official constitution of the UNSW Security Society.
 # 1 INTRODUCTION
     1.1 The official name of the club shall be "The Security Society of UNSW".
     1.2 The club shall be affiliated to Arc.
-    1.3 The aims and objectives of the club are:
-      1.3.1 Spreading awareness of security in its many forms, including computer and real life.
-      1.3.2 Host events to facilitate the development of skills and knowledge of security.
+    1.3 The aims and objectives of the club are to:
+      1.3.1 Spread awareness of security in its many forms, including computer and real life;
+      1.3.2 Host events to facilitate the development of skills and knowledge of security; and
       1.3.3 Provide networking opportunities between students and companies in the security industry.
     1.4 In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N.E.R. Renton shall apply.
 
@@ -37,8 +37,8 @@ The official constitution of the UNSW Security Society.
     2.8 Notwithstanding clause 2.9, a member or associate member of a club may have their membership terminated after the following procedure is followed:
       2.8.1 A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
       2.8.2 The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
-      2.8.3 The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting.
-      2.8.4 The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting.
+      2.8.3 The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting;
+      2.8.4 The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting; and
       2.8.5 The motion is carried by the Extraordinary General Meeting.
     2.9 Any member of a club or club Executive who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
 
@@ -134,10 +134,10 @@ The official constitution of the UNSW Security Society.
         b) To communicate with the Executive before and after each Arc Clubs General Meeting to pass on information (about grants etc);
         c) To liaise with Arc and the club's Executive;
         d) To have a good working knowledge of Arc forms;
-        e) To clear out the club's pigeonhole in the Arc Resource Centre at least every two (2) weeks; and
-        f) To attend Arc Clubs General Meetings or nominate a fellow club member to attend on your behalf, or send advance apologies (taking the form of a written note detailing your name, club, and the date of the meeting you can not attend).
-        g) To ensure that Arc is informed of any changes to the Executive;
-        h) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements;
+        e) To clear out the club's pigeonhole in the Arc Resource Centre at least every two (2) weeks;
+        f) To attend Arc Clubs General Meetings or nominate a fellow club member to attend on your behalf, or send advance apologies (taking the form of a written note detailing your name, club, and the date of the meeting you can not attend);
+        g) To ensure that Arc is informed of any changes to the Executive; and
+        h) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements.
 
     3.9 Committee Members
       3.9.1 Committee positions are to be determined by the executive.
@@ -153,7 +153,7 @@ The official constitution of the UNSW Security Society.
 ## Annual General Meetings
     4.1 There shall be one (1) Annual General meeting every calendar year.
     4.2 Notice in the form of an agenda for the Annual General Meeting shall be no less than seven (7) days, and is to be:
-      4.2.1 Given in writing to Arc;
+      4.2.1 Given in writing to Arc; and
       4.2.2 Given in writing to all club members, or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among club members.
     4.3 Quorum for the Annual General Meeting shall be fifteen (15) members or one half of the club membership, whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
     4.4 At an Annual General Meeting:
@@ -177,12 +177,12 @@ The official constitution of the UNSW Security Society.
       4.12.2 Approved minutes of Executive meetings shall be available to members;
         4.12.2.1 Approved minutes may exclude, however is not limited to excluding: sponsorship discussions, committee nomination discussions and other internal private matters;
     4.13 Meetings shall be conducted:
-      4.13.1 At least once per month; and
+      4.13.1 At least once per month;
         4.13.1.1 Unless otherwise agreed upon by a majority of the executive
-      4.13.2 When called upon by the President; and
+      4.13.2 When called upon by the President;
       4.13.3 When requested by three (3) members of the Committee; and
-      4.13.4 In open session unless the Executive resolves to discuss a matter in closed session;
-        4.13.4.1 Open session meetings are to be publicised a week in advance to the meeting date;
+      4.13.4 In open session unless the Executive resolves to discuss a matter in closed session.
+        4.13.4.1 Open session meetings are to be publicised a week in advance to the meeting date.
 
     4.14 Valid Executive Resolutions shall require:
       4.14.1 That the matter to be dealt with by resolution be identified as an agenda item when notice of the relevant meeting is sent to executive members, unless by unanimous resolution of present voting executive members, it is declared the matter shall be dealt with;
@@ -193,23 +193,23 @@ The official constitution of the UNSW Security Society.
 
 ## Elections
     4.15 Elections of executive will be conducted at the Annual General Meeting (or Extraordinary General Meetings where relevant) following the requirements set out in this constitution.
-    4.16 Elections requirements are stated as follows;
+    4.16 Elections requirements are stated as follows:
       4.16.1 Optional preferential voting shall be used;
       4.16.2 Voting for all positions shall be conducted simultaneously (where applicable);
       4.16.3 A Returning Officer shall be appointed by the Executive, informed by the first notice of the election;
       4.16.4 Members who nominate themselves for candidacy for more than one (1) position must provide an order of preference;
       4.16.5 If a candidate wins more than one (1) position, the candidate shall be elected to their most preferred position, and votes for the vacated position(s) shall be counted again (unless there are no other candidates in the vacated position).
-      4.16.6 If nominations are taken in advance:;
+      4.16.6 If nominations are taken in advance:
         4.16.6.1 All eligible members must receive notice of the nominations period before its commencement, as well as details of the nomination process.
         4.16.6.2 Nominations must be open for at least seven (7) days.
-        4.16.6.3 Members who wish to submit themselves as nomination candidate:;
-          4.16.6.3.1 Must do so directly to the Returning Officer;
+        4.16.6.3 Members who wish to submit themselves as nomination candidate:
+          4.16.6.3.1 Must do so directly to the Returning Officer; and
           4.16.6.3.2 Must confirm their nomination by emailing the returning officer using their UNSW email, before voting begins.
         4.16.6.4 Only the returning officer may view the list of nominations until nominations have closed.
         4.16.6.5 At the start of the voting period:
           4.16.6.5.1 An official ballot shall be sent to members;
-          4.16.6.5.2 The ballot will disclose the preferred position of each confirmed candidate;
-          4.16.6.5.3 The order of candidates for each position on the ballot will be random;
+          4.16.6.5.2 The ballot will disclose the preferred position of each confirmed candidate; and
+          4.16.6.5.3 The order of candidates for each position on the ballot will be random.
         4.16.6.6 For any position for which there are no confirmed candidates at the close of nominations, nominations for those positions will be valid if received at the General Meeting.
     4.17 All election candidates:
       4.17.1 Must not run in coalitions.
@@ -225,19 +225,19 @@ The official constitution of the UNSW Security Society.
         4.18.1.3 All present members shall be provided a paper ballot;
         4.18.1.4 Candidates may campaign at the meeting before voting begins. If unable to do so, the Returning Officer shall read out their blurb, if any was provided.
       4.18.2 Online Elections
-        4.18.2.1 At least two (2) weeks before the election;
-          4.18.2.1.1 Nominations will open,
-          4.18.2.1.2 and members will be notified that they need to sign up to the society on SpArc before voting begins to be eligible to vote.
-        4.18.2.2 At least one (1) week before the election;
-          4.18.2.2.1 Nominations will close,
-          4.18.2.2.2 candidates may start campaigning,
-          4.18.2.2.3 and voting will begin, where official ballots shall only be sent to all members who have signed up to the society on SpArc.
+        4.18.2.1 At least two (2) weeks before the election:
+          4.18.2.1.1 Nominations will open; and
+          4.18.2.1.2 Members will be notified that they need to sign up to the society on SpArc before voting begins to be eligible to vote.
+        4.18.2.2 At least one (1) week before the election:
+          4.18.2.2.1 Nominations will close;
+          4.18.2.2.2 Candidates may start campaigning; and
+          4.18.2.2.3 Voting will begin, where official ballots shall only be sent to all members who have signed up to the society on SpArc.
         4.18.2.3 The results are to be declared at a General Meeting held within fourteen (14) days of the conclusion of voting.
     4.19 AGM Elections
       4.19.1 At least three (3) weeks prior to the AGM date, notice of the AGM and nomination procedure shall be given to members.
       4.19.2 Seven (7) days prior to the AGM, the official voting ballot shall be sent to members;
 
-# 5 FINANCE;
+# 5 FINANCE
     5.1 The club shall hold an account with a financial institution approved by Arc;
     5.2 The Executive must approve all accounts and expenditures for payment;
     5.3 All financial transactions shall require two (2) signatures of members of the Executive;
@@ -245,7 +245,7 @@ The official constitution of the UNSW Security Society.
     5.5 The financial records of the club shall be open for inspection by Arc at all times.
     5.6 The assets and income of the club shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the club except as bona fide compensation for services rendered or expenses incurred on behalf of the club.
 
-# 6 DISSOLUTION;
+# 6 DISSOLUTION
     6.1 Dissolution of the club will occur after the following conditions have been met:
       6.1.1 An Extraordinary General Meeting is petitioned in writing as set out in 4.8;
       6.1.2 Procedures for notification as set out in 4.2 are followed, and the reasons for the proposed dissolution are included with the notification to Arc;
