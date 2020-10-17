@@ -212,11 +212,12 @@ The official constitution of the UNSW Security Society.
           4.16.6.5.3 The order of candidates for each position on the ballot will be random.
         4.16.6.6 For any position for which there are no confirmed candidates at the close of nominations, nominations for those positions will be valid if received at the General Meeting.
     4.17 All election candidates:
-      4.17.1 Must not run in coalitions.
+      4.17.1 Must not run in coalitions; and
       4.17.2 May campaign for their positions subject to the following procedures:
         4.17.2.1 The current or outgoing executives, or committee may not support or criticise any candidate for election;
       4.17.3 At the General Meeting at which the election was held (unless they are the only candidate for a position), will have their elected position given to the next candidate in line if:
-        4.17.3.1 They do not attend (unless the candidate has given an excuse).
+        4.17.3.1 They do not attend (unless the candidate has given an excuse),
+or
         4.17.3.2 They wish to no longer accept their position.
     4.18 Elections may take place as one of the following forms, provided they satisfy all existing election requirements as set out in this constitution and their requirements as set out below:
       4.18.1 Ballot Elections
