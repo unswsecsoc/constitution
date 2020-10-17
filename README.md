@@ -158,7 +158,7 @@ The official constitution of the UNSW Security Society.
     4.4 At an Annual General Meeting:
       4.4.1 Reports shall be presented by at least the President and the Treasurer;
       4.4.2 Full financial reports shall be presented and adopted;
-      4.4.3 Elections for a new Executive shall be conducted in accordance with Section 4.14; and
+      4.4.3 Elections for a new Executive shall be conducted; and
       4.4.4 Constitutional amendments and other motions on notice may be discussed and voted upon.
     4.5 Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
 
