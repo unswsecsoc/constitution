@@ -90,14 +90,14 @@ The official constitution of the UNSW Security Society.
       3.8.2 Vice President
         a) In the absence of the President, to chair all meetings (held during their term) of the club or society;
         b) To be responsible for matters relating to sponsorship and funding from outside organisations other than Arc, including but not limited to:
-            i. Liaising with such outside organisations,
-           ii. Establishing the sponsorship proposal for the year, and
-          iii. Organising events run in conjunction with sponsors;
+            i. Liaising with such outside organisations;
+           ii. Establishing the sponsorship proposal for the year; and
+          iii. Organising events run in conjunction with sponsors.
         c) To be responsible for matters relating to grievances, including but not limited to:
-            i. To receive complaints and grievances relating to the Club,
-           ii. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances,
-          iii. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially, and
-           iv. To notify those involved of the outcome of the grievance;
+            i. To receive complaints and grievances relating to the Club;
+           ii. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
+          iii. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
+           iv. To notify those involved of the outcome of the grievance.
         d) To arrive at a budget with the Executive;
         e) To assist the President in coordinating the activities and administration of the Club;
         f) To have a thorough knowledge of the Club's constitution;
