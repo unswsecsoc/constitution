@@ -124,9 +124,9 @@ The official constitution of the UNSW Security Society.
         i) To always enter the payees name, the cheque amount and a brief explanation of the payment on the cheque butt;
         j) To always provide a receipt to a person who gives money to the club for any reason and bank all money received IMMEDIATELY;
         k) To ensure you have at least two (2) and not more than three (3) signatories who are Executive members to the cheque account;
-        l) To ensure that club funds are not misused at any time; and
-        m) To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained.
-        n) Under no circumstances are any expenses to be met without documentation.
+        l) To ensure that club funds are not misused at any time;
+        m) To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained; and
+        n) To ensure that under no circumstances are any expenses to be met without documentation.
 
       3.8.5 Arc Delegate
         a) To be aware of the Arc funding system, its requirements and its possibilities for the club;
