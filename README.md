@@ -256,5 +256,7 @@ The official constitution of the UNSW Security Society.
     6.3 On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the club which it perceives would be useful to other Arc-affiliated clubs. The club will be given twenty one (21) days to forward all relevant items to Arc before any action is instigated.
 
 # 7 ADDITIONS
-    Please number any further additions or alterations to this Constitution starting with 7.1, and ensure that a copy is submitted to Arc with your affiliation. Additions or alterations to this Constitution do not become valid unless ratified by Arc.
+    7.1 Any digital form sent from the society which requires a response must provide a submission receipt unless anonymously completed.
+
+    Please number any further additions or alterations to this Constitution starting with 7.2, and ensure that a copy is submitted to Arc with your affiliation. Additions or alterations to this Constitution do not become valid unless ratified by Arc.
 
