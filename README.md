@@ -27,19 +27,18 @@ The official constitution of the UNSW Security Society.
 
 # 2 MEMBERSHIP
     2.1 Contact details for members of your club are to remain with the Executive and Arc to have sole access. Contact details are not to be given or sold to any other person.
-    2.2 The club shall be recognised as a Financial club.
-    2.3 Full membership of the club shall be open to all UNSW students subject to affiliation requirements of Arc, and they shall be required to pay an annual club membership fee of at least $0, and complete a membership form.
-    2.4 Associate membership shall be open to all persons who are not UNSW students subject to affiliation requirements of Arc, provided that they pay a membership fee that is set by the club Executive, and they complete a membership form prepared by the club Executive.
-    2.5 The duration of a person's membership shall be until the club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
-    2.6 The club shall comply with anti-discrimination legislation in all of its activities and procedures, including the granting of club membership.
-    2.7 Notwithstanding clause 2.9, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.6.
-    2.8 Notwithstanding clause 2.9, a member or associate member of a club may have their membership terminated after the following procedure is followed:
-      2.8.1 A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
-      2.8.2 The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
-      2.8.3 The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting;
-      2.8.4 The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting; and
-      2.8.5 The motion is carried by the Extraordinary General Meeting.
-    2.9 Any member of a club or club Executive who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
+    2.2 Full membership of the club shall be open to all UNSW students subject to affiliation requirements of Arc, and they shall be required to pay an annual club membership fee of at least $0, and complete a membership form.
+    2.3 Associate membership shall be open to all persons who are not UNSW students subject to affiliation requirements of Arc, provided that they pay a membership fee that is set by the club Executive, and they complete a membership form prepared by the club Executive.
+    2.4 The duration of a person's membership shall be until the club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
+    2.5 The club shall comply with anti-discrimination legislation in all of its activities and procedures, including the granting of club membership.
+    2.6 Notwithstanding clause 2.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.6.
+    2.7 Notwithstanding clause 2.8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
+      2.7.1 A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
+      2.7.2 The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
+      2.7.3 The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting;
+      2.7.4 The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting; and
+      2.7.5 The motion is carried by the Extraordinary General Meeting.
+    2.8 Any member of a club or club Executive who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
 
 # 3 EXECUTIVE
     3.1 The Executive of the club shall be elected from the full members at the Annual General Meeting and shall consist of at least:
