@@ -212,7 +212,8 @@ The official constitution of the UNSW Security Society.
     4.17 All election candidates:
       4.17.1 Must not run in coalitions; and
       4.17.2 May campaign for their positions subject to the following procedures:
-        4.17.2.1 The current or outgoing executives, or committee may not support or criticise any candidate for election;
+        4.17.2.1 The current or outgoing executives, and committee may not support or criticise any candidate for election other than themselves; and
+        4.17.2.2 The current or outgoing executives, and committee who are campaigning for themselves may not use any privileges or permissions from their position;
       4.17.3 At the General Meeting at which the election was held (unless they are the only candidate for a position), will have their elected position given to the next candidate in line if:
         4.17.3.1 They do not attend (unless the candidate has given an excuse), or
         4.17.3.2 They wish to no longer accept their position.
