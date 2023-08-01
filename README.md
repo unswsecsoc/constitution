@@ -141,7 +141,7 @@ The official constitution of the UNSW Security Society.
            iii. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
             iv. To notify those involved of the outcome of the grievance.
         b) To foster an inclusive and safe environment for all members of the Club, including:
-             i. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students);
+             i. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, students who are women, gender diverse students, LGBTQIA+ students and indigenous students);
             ii. Engaging & representing student members of non-majority demographics of the Club;
            iii. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
             iv. Ensuring that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
