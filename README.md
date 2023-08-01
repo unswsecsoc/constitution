@@ -139,7 +139,7 @@ The official constitution of the UNSW Security Society.
              i. To receive complaints and grievances relating to the Club;
             ii. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
            iii. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
-           iv. To notify those involved of the outcome of the grievance.
+            iv. To notify those involved of the outcome of the grievance.
         b) To foster an inclusive and safe environment for all members of the Club, including:
              i. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students);
             ii. Engaging & representing student members of non-majority demographics of the Club;
