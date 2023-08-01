@@ -147,8 +147,8 @@ The official constitution of the UNSW Security Society.
             iv. Ensuring that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
              v. Being an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
             vi. Providing guidance to representatives of the Club (Executives, directors, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
-           vii. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
-          viii. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
+           vii. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive; and
+          viii. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive
         c) Other relevant duties as required by the Club.
 
     3.9 Committee Members
