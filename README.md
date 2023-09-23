@@ -48,7 +48,7 @@ The official constitution of the UNSW Security Society.
       3.1.3 A Secretary;
       3.1.4 A Treasurer; and
       3.1.5 An Arc Delegate; and
-      3.1.6 A Grievance, Equity, Diversity and Inclusion (GEDI) Officer.
+      3.1.6 A Grievance, Equity, Diversity, and Inclusion (GEDI) Officer.
     3.2 One (1) member is permitted to hold two (2) Executive positions, provided that a minimum of three (3) different members shall remain on the Executive at all times, with the exception that the positions of President and Treasurer may not be held by the same person.
     3.3 Job sharing of any Executive position is not permitted.
     3.4 The Executive shall be responsible for the following duties:
