@@ -134,7 +134,7 @@ The official constitution of the UNSW Security Society.
         g) To ensure that Arc is informed of any changes to the Executive; and
         h) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements.
 
-      3.8.6 GEDI Officer
+      3.8.6 Grievance, Equity, Diversity, and Inclusion (GEDI) Officer
         a) To be responsible for matters relating to grievances, including but not limited to:
              i. To receive complaints and grievances relating to the Club;
             ii. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
