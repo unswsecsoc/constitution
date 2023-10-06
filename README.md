@@ -47,7 +47,8 @@ The official constitution of the UNSW Security Society.
       3.1.2 A Vice President;
       3.1.3 A Secretary;
       3.1.4 A Treasurer; and
-      3.1.5 An Arc Delegate.
+      3.1.5 An Arc Delegate; and
+      3.1.6 A Grievance, Equity, Diversity, and Inclusion (GEDI) Officer.
     3.2 One (1) member is permitted to hold two (2) Executive positions, provided that a minimum of three (3) different members shall remain on the Executive at all times, with the exception that the positions of President and Treasurer may not be held by the same person.
     3.3 Job sharing of any Executive position is not permitted.
     3.4 The Executive shall be responsible for the following duties:
@@ -93,17 +94,12 @@ The official constitution of the UNSW Security Society.
             i. Liaising with such outside organisations;
            ii. Establishing the sponsorship proposal for the year; and
           iii. Organising events run in conjunction with sponsors.
-        c) To be responsible for matters relating to grievances, including but not limited to:
-            i. To receive complaints and grievances relating to the Club;
-           ii. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
-          iii. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
-           iv. To notify those involved of the outcome of the grievance.
-        d) To arrive at a budget with the Executive;
-        e) To assist the President in coordinating the activities and administration of the Club;
-        f) To have a thorough knowledge of the Club's constitution;
-        g) To ensure that motions made at any Meeting of the Club are reflective of the constitution;
-        h) To liaise with fellow office bearers; and
-        i) To assist the President in their duties wherever practical.
+        c) To arrive at a budget with the Executive;
+        d) To assist the President in coordinating the activities and administration of the Club;
+        e) To have a thorough knowledge of the Club's constitution;
+        f) To ensure that motions made at any Meeting of the Club are reflective of the constitution;
+        g) To liaise with fellow office bearers; and
+        h) To assist the President in their duties wherever practical.
 
       3.8.3 Secretary
         a) To be responsible for receiving and replying to all correspondence on behalf of the club;
@@ -137,6 +133,23 @@ The official constitution of the UNSW Security Society.
         f) To attend Arc Clubs General Meetings or nominate a fellow club member to attend on your behalf, or send advance apologies (taking the form of a written note detailing your name, club, and the date of the meeting you can not attend);
         g) To ensure that Arc is informed of any changes to the Executive; and
         h) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements.
+
+      3.8.6 Grievance, Equity, Diversity, and Inclusion (GEDI) Officer
+        a) To be responsible for matters relating to grievances, including but not limited to:
+             i. To receive complaints and grievances relating to the Club;
+            ii. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
+           iii. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
+            iv. To notify those involved of the outcome of the grievance.
+        b) To foster an inclusive and safe environment for all members of the Club, including:
+             i. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, students who are women, gender diverse students, LGBTQIA+ students and indigenous students);
+            ii. Engaging & representing student members of non-majority demographics of the Club;
+           iii. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
+            iv. Ensuring that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
+             v. Being an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
+            vi. Providing guidance to representatives of the Club (Executives, directors, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
+           vii. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive; and
+          viii. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive
+        c) Other relevant duties as required by the Club.
 
     3.9 Committee Members
       3.9.1 Committee positions are to be determined by the executive.
