@@ -204,24 +204,36 @@ The official constitution of the UNSW Security Society.
 
 ## Elections
     4.15 Elections of executive will be conducted at the Annual General Meeting (or Extraordinary General Meetings where relevant) following the requirements set out in this constitution.
+    4.16 At least one (1) Returning Officer must be appointed by the Executive prior to a General Meeting at which an election will take place.
+    4.17 The Returning Officers duties are as follows:
+      4.17.1 Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management.
+      4.17.2 Ensure that all elections are run fairly and in line with the rules set out by this Club’s Constitution and according to Arc Clubs Policy and Procedure.
+      4.17.3 Prepare and circulate all notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place.
+      4.17.4 Provide all members with access to an email address that is designated for use by the Returning Officer over the course of their duties.
+      4.17.5 Accept all nominations submitted that satisfy the rules of this Club’s Constitution and Arc Clubs Policy and treat any defective or late nominations in the manner prescribed by this Club’s Constitution and/or Arc policy.
+      4.17.6 If voting is to take place online, ensure that the appointed Returning Officer(s) are the only person(s), alongside Arc Clubs Management, with access to the voting forms and spreadsheets.
+      4.17.7 If voting is to take place in person, ensure that they have provided all members with instructions surrounding proxies, have received any proxies via accepted channels and determined the validity of proxies submitted prior to the General Meeting taking place.
+      4.17.8 Runs the portion of the General Meeting pertaining to the election of candidates
+      4.17.9 Allows for at least 1 scrutineer per candidate, (who cannot be the candidate themselves) to be present for the counting of votes, if this is held in person, or for that person to be provided access to the voting sheets if the election was held online.
+      4.17.10 To present a report announcing all successful candidates following the conclusion of the voting process.
+      4.17.11 Where there is a clash between this Club’s Constitution and Arc Clubs Policy, Arc Clubs Policy takes precedence.
     4.16 Elections requirements are stated as follows:
       4.16.1 Optional preferential voting shall be used;
       4.16.2 Voting for all positions shall be conducted simultaneously (where applicable);
-      4.16.3 A Returning Officer shall be appointed by the Executive, informed by the first notice of the election;
-      4.16.4 Members who nominate themselves for candidacy for more than one (1) position must provide an order of preference;
-      4.16.5 If a candidate wins more than one (1) position, the candidate shall be elected to their most preferred position, and votes for the vacated position(s) shall be counted again (unless there are no other candidates in the vacated position).
-      4.16.6 If nominations are taken in advance:
-        4.16.6.1 All eligible members must receive notice of the nominations period before its commencement, as well as details of the nomination process.
-        4.16.6.2 Nominations must be open for at least seven (7) days.
-        4.16.6.3 Members who wish to submit themselves as nomination candidate:
-          4.16.6.3.1 Must do so directly to the Returning Officer; and
-          4.16.6.3.2 Must confirm their nomination by emailing the returning officer using their UNSW email, before voting begins.
-        4.16.6.4 Only the returning officer may view the list of nominations until nominations have closed.
-        4.16.6.5 At the start of the voting period:
-          4.16.6.5.1 An official ballot shall be sent to members;
-          4.16.6.5.2 The ballot will disclose the preferred position of each confirmed candidate; and
-          4.16.6.5.3 The order of candidates for each position on the ballot will be random.
-        4.16.6.6 For any position for which there are no confirmed candidates at the close of nominations, nominations for those positions will be valid if received at the General Meeting.
+      4.16.3 Members who nominate themselves for candidacy for more than one (1) position must provide an order of preference;
+      4.16.4 If a candidate wins more than one (1) position, the candidate shall be elected to their most preferred position, and votes for the vacated position(s) shall be counted again (unless there are no other candidates in the vacated position).
+      4.16.5 If nominations are taken in advance:
+        4.16.5.1 All eligible members must receive notice of the nominations period before its commencement, as well as details of the nomination process.
+        4.16.5.2 Nominations must be open for at least seven (7) days.
+        4.16.5.3 Members who wish to submit themselves as nomination candidate:
+          4.16.5.3.1 Must do so directly to the Returning Officer; and
+          4.16.5.3.2 Must confirm their nomination by emailing the returning officer using their UNSW email, before voting begins.
+        4.16.5.4 Only the returning officer may view the list of nominations until nominations have closed.
+        4.16.5.5 At the start of the voting period:
+          4.16.5.5.1 An official ballot shall be sent to members;
+          4.16.5.5.2 The ballot will disclose the preferred position of each confirmed candidate; and
+          4.16.5.5.3 The order of candidates for each position on the ballot will be random.
+        4.16.5.6 For any position for which there are no confirmed candidates at the close of nominations, nominations for those positions will be valid if received at the General Meeting.
     4.17 All election candidates:
       4.17.1 Must not run in coalitions; and
       4.17.2 May campaign for their positions subject to the following procedures:
