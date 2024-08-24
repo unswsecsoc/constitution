@@ -164,15 +164,19 @@ The official constitution of the UNSW Security Society.
 
 ## Annual General Meetings
     4.1 There shall be one (1) Annual General meeting every calendar year.
-    4.2 Notice in the form of an agenda for the Annual General Meeting shall be no less than seven (7) days, and is to be:
+    4.2 Notice in the form of an agenda for the Annual General Meeting shall be no less than fourteen (14) days, and is to be:
       4.2.1 Given in writing to Arc; and
       4.2.2 Given in writing to all club members, or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among club members.
-    4.3 Quorum for the Annual General Meeting shall be fifteen (15) members or one half of the club membership, whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
+    4.3 Quorum for the Annual General Meeting shall be:
+      4.3.1 Ten (10) or one half of the Club membership, whichever is the lesser, for all Clubs with less than 75 members, and for any other Club that has been active for less than 18 months from the time they first affiliated to Arc; or,
+      4.3.2 Fifteen (15) ordinary members for all Clubs with more than 75 members that have been active for more than 18 months from the time they first affiliated to Arc. An ordinary member is defined as a member of the Club that did not serve as Executive in the current year.
     4.4 At an Annual General Meeting:
       4.4.1 Reports shall be presented by at least the President and the Treasurer;
       4.4.2 Full financial reports shall be presented and adopted;
-      4.4.3 Elections for a new Executive shall be conducted; and
-      4.4.4 Constitutional amendments and other motions on notice may be discussed and voted upon.
+      4.4.3 Constitutional amendments and other motions on notice may be discussed and voted upon.
+      4.4.4 The Chair will hand over the meeting to the Returning Officer who will:
+        4.4.4.1 Hold elections for a new Executive; and/or if this has already happened online, 
+        4.4.4.2 Announce the winners and any other relevant information to attendees as required, before handing the meeting to the new, Incoming President, or in their absence, a duly elected Chair.
     4.5 Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
 
 ## Extraordinary General Meetings
