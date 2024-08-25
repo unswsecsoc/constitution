@@ -152,8 +152,9 @@ The official constitution of the UNSW Security Society.
           viii. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive
             ix. To lead efforts ensuring that your internal Club culture is positive and to prioritise and foster wellbeing and balance within the Club;
              x. Ensure that club events will not result in poor wellbeing outcomes and will not lead to grievances from Club members and/or executives;
-        c) Undertake training as required to build understanding of how to look out for your peers and how to improve the internal culture of your Club; and,
-        d) Other relevant duties as required by the Club.
+        c) Undertake training as required to build understanding of how to look out for your peers and how to improve the internal culture of your Club;
+        d) Run training sessions to upskill the executive team in regards to dealing with grievances; and
+        e) Other relevant duties as required by the Club.
 
     3.9 Committee Members
       3.9.1 Committee positions are to be determined by the executive.
