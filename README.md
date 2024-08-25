@@ -43,13 +43,12 @@ The official constitution of the UNSW Security Society.
 
 # 3 EXECUTIVE
     3.1 The Executive of the club shall be elected from the full members at the Annual General Meeting and shall consist of at least:
-      3.1.1 A President;
-      3.1.2 A Vice President;
-      3.1.3 A Secretary;
-      3.1.4 A Treasurer; and
-      3.1.5 An Arc Delegate; and
-      3.1.6 A Grievance, Equity, Diversity, and Inclusion (GEDI) Officer.
-    3.2 One (1) member is permitted to hold two (2) Executive positions, provided that a minimum of three (3) different members shall remain on the Executive at all times, with the exception that the positions of President and Treasurer may not be held by the same person.
+      3.1.1 Two (2) Co-Presidents
+      3.1.2 A Secretary;
+      3.1.3 A Treasurer; and
+      3.1.4 An Arc Delegate; and
+      3.1.5 A Grievance, Equity, Diversity, and Inclusion (GEDI) Officer.
+    3.2 One (1) member is permitted to hold two (2) Executive positions, provided that a minimum of three (3) different members shall remain on the Executive at all times, with the exceptions that the positions of Co-President and Treasurer may not be held by the same person, and both Co-President positions may not be held by the same person.
     3.3 Job sharing of any Executive position is not permitted.
     3.4 The Executive shall be responsible for the following duties:
       3.4.1 The activities of the club;
@@ -70,7 +69,7 @@ The official constitution of the UNSW Security Society.
       3.6.6 Have their position declared vacant at an Extraordinary General Meeting.
     3.7 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
     3.8 Duties of the following Executive positions shall include but not be limited to:
-      3.8.1 President
+      3.8.1 Co-Presidents
         a) To chair all club, Committee, General and Annual General Meetings (held during their term) of the club or society;
         b) To oversee and coordinate the activities and administration of the club;
         c) To ensure that the elected officers of the club or society perform duties as laid down by the clubs' Constitution, through regular email updates, regularly advertised meetings, reports and notices and/or regular newsletters;
@@ -87,28 +86,21 @@ The official constitution of the UNSW Security Society.
         n) To ensure that Arc is informed of changes to the Executive;
         o) To pass on their knowledge to their successor; and
         p) Other duties as in accordance with the Constitution of the club.
-
-      3.8.2 Vice President
-        a) In the absence of the President, to chair all meetings (held during their term) of the club or society;
-        b) To be responsible for matters relating to sponsorship and funding from outside organisations other than Arc, including but not limited to:
+        q) To be responsible for matters relating to sponsorship and funding from outside organisations other than Arc, including but not limited to:
             i. Liaising with such outside organisations;
            ii. Establishing the sponsorship proposal for the year; and
           iii. Organising events run in conjunction with sponsors.
-        c) To arrive at a budget with the Executive;
-        d) To assist the President in coordinating the activities and administration of the Club;
-        e) To have a thorough knowledge of the Club's constitution;
-        f) To ensure that motions made at any Meeting of the Club are reflective of the constitution;
-        g) To liaise with fellow office bearers; and
-        h) To assist the President in their duties wherever practical.
+        r) To arrive at a budget with the Executive;
+        s) To ensure that motions made at any Meeting of the Club are reflective of the constitution;
 
-      3.8.3 Secretary
+      3.8.2 Secretary
         a) To be responsible for receiving and replying to all correspondence on behalf of the club;
-        b) To organise meetings, agendas (in consultation with the President), and minutes;
+        b) To organise meetings, agendas (in consultation with the Co-Presidents), and minutes;
         c) To keep relevant club papers in order;
         d) To coordinate elections; and
         e) To maintain the membership list, updating when changes are made.
 
-      3.8.4 Treasurer
+      3.8.3 Treasurer
         a) To keep and maintain all club financial records;
         b) To hold cheque books, petty cash tins etc;
         c) To keep the club informed of its financial position (at meetings, through regular email reports, or regular newsletter;
@@ -124,7 +116,7 @@ The official constitution of the UNSW Security Society.
         m) To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained; and
         n) To ensure that under no circumstances are any expenses to be met without documentation.
 
-      3.8.5 Arc Delegate
+      3.8.4 Arc Delegate
         a) To be aware of the Arc funding system, its requirements and its possibilities for the club;
         b) To communicate with the Executive before and after each Arc Clubs General Meeting to pass on information (about grants etc);
         c) To liaise with Arc and the club's Executive;
@@ -134,7 +126,7 @@ The official constitution of the UNSW Security Society.
         g) To ensure that Arc is informed of any changes to the Executive; and
         h) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements.
 
-      3.8.6 Grievance, Equity, Diversity, and Inclusion (GEDI) Officer
+      3.8.5 Grievance, Equity, Diversity, and Inclusion (GEDI) Officer
         a) To be responsible for matters relating to grievances, including but not limited to:
              i. To receive complaints and grievances relating to the Club;
             ii. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
@@ -169,7 +161,7 @@ The official constitution of the UNSW Security Society.
       4.2.2 Given in writing to all club members, or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among club members.
     4.3 Quorum for the Annual General Meeting shall be fifteen (15) members or one half of the club membership, whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
     4.4 At an Annual General Meeting:
-      4.4.1 Reports shall be presented by at least the President and the Treasurer;
+      4.4.1 Reports shall be presented by at least one of the Co-Presidents and the Treasurer;
       4.4.2 Full financial reports shall be presented and adopted;
       4.4.3 Elections for a new Executive shall be conducted; and
       4.4.4 Constitutional amendments and other motions on notice may be discussed and voted upon.
@@ -191,14 +183,14 @@ The official constitution of the UNSW Security Society.
     4.13 Meetings shall be conducted:
       4.13.1 At least once per month;
         4.13.1.1 Unless otherwise agreed upon by a majority of the executive
-      4.13.2 When called upon by the President;
+      4.13.2 When called upon by a Co-President;
       4.13.3 When requested by three (3) members of the Committee; and
       4.13.4 In open session unless the Executive resolves to discuss a matter in closed session.
         4.13.4.1 Open session meetings are to be publicised a week in advance to the meeting date.
     4.14 Valid Executive Resolutions shall require:
       4.14.1 That the matter to be dealt with by resolution be identified as an agenda item when notice of the relevant meeting is sent to executive members, unless by unanimous resolution of present voting executive members, it is declared the matter shall be dealt with;
       4.14.2 That at least 50% of voting members of the executive be present when the resolution is passed;
-      4.14.3 A simple majority of present voting executive members to vote in favour of the resolution. In the event of a tie, the President shall have the casting vote. Executive members not present at the relevant meeting may nominate in advance another voting Executive member to act as their proxy. Each voting Executive may only carry one (1) proxy;
+      4.14.3 A simple majority of present voting executive members to vote in favour of the resolution. In the event of a tie, the Co-Presidents shall have the casting vote if they are unanimous, otherwise the GEDI officer will have the casting vote. Executive members not present at the relevant meeting may nominate in advance another voting Executive member to act as their proxy. Each voting Executive may only carry one (1) proxy;
       4.14.4 Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
       4.14.5 Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
 
