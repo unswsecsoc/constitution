@@ -240,7 +240,7 @@ The official constitution of the UNSW Security Society.
         4.18.2.1 At least two (2) weeks before the election:
           4.18.2.1.1 Nominations will open; and
           4.18.2.1.2 Members will be notified that they need to sign up to the society on SpArc before voting begins to be eligible to vote.
-        4.18.2.2 At least one (1) week before the election:
+        4.18.2.2 At least five (5) days before the election:
           4.18.2.2.1 Nominations will close;
           4.18.2.2.2 Candidates may start campaigning; and
           4.18.2.2.3 Voting will begin, where official ballots shall only be sent to all members who have signed up to the society on SpArc.
