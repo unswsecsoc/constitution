@@ -153,7 +153,7 @@ The official constitution of the UNSW Security Society.
             ix. To lead efforts ensuring that your internal Club culture is positive and to prioritise and foster wellbeing and balance within the Club;
              x. Ensure that club events will not result in poor wellbeing outcomes and will not lead to grievances from Club members and/or executives;
         c) Undertake training as required to build understanding of how to look out for your peers and how to improve the internal culture of your Club;
-        d) Run training sessions to upskill the executive team in regards to dealing with grievances; and
+        d) Run training and information sessions to upskill the executive team in understanding the Club's grievance policy; and
         e) Other relevant duties as required by the Club.
 
     3.9 Committee Members
