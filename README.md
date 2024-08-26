@@ -48,7 +48,10 @@ The official constitution of the UNSW Security Society.
       3.1.3 A Treasurer; and
       3.1.4 An Arc Delegate; and
       3.1.5 A Grievance, Equity, Diversity, and Inclusion (GEDI) Officer.
-    3.2 One (1) member is permitted to hold two (2) Executive positions, provided that a minimum of three (3) different members shall remain on the Executive at all times, with the exceptions that the positions of Co-President and Treasurer may not be held by the same person, and both Co-President positions may not be held by the same person.
+    3.2 One (1) member is permitted to hold two (2) Executive positions, provided that a minimum of three (3) different members shall remain on the Executive at all times, with the following exceptions:
+      3.2.1 Both Co-President positions may not be held by the same person;
+      3.2.2 Co-President and Treasurer may not be held by the same person;
+      3.2.3 Co-President and GEDI Officer may not be held by the same person.
     3.3 Job sharing of any Executive position is not permitted.
     3.4 The Executive shall be responsible for the following duties:
       3.4.1 The activities of the club;
@@ -85,13 +88,13 @@ The official constitution of the UNSW Security Society.
         m) To ensure that the Treasurer submits a Financial Report to the club at the AGM and to Arc and that they have the club's finances in good order in preparation for Spot Audits by Arc;
         n) To ensure that Arc is informed of changes to the Executive;
         o) To pass on their knowledge to their successor; and
-        p) Other duties as in accordance with the Constitution of the club.
-        q) To be responsible for matters relating to sponsorship and funding from outside organisations other than Arc, including but not limited to:
+        p) To be responsible for matters relating to sponsorship and funding from outside organisations other than Arc, including but not limited to:
             i. Liaising with such outside organisations;
            ii. Establishing the sponsorship proposal for the year; and
           iii. Organising events run in conjunction with sponsors.
-        r) To arrive at a budget with the Executive;
-        s) To ensure that motions made at any Meeting of the Club are reflective of the constitution;
+        q) To arrive at a budget with the Executive;
+        r) To ensure that motions made at any Meeting of the Club are reflective of the constitution;
+        s) Other duties as in accordance with the Constitution of the club.
 
       3.8.2 Secretary
         a) To be responsible for receiving and replying to all correspondence on behalf of the club;
@@ -190,7 +193,7 @@ The official constitution of the UNSW Security Society.
     4.14 Valid Executive Resolutions shall require:
       4.14.1 That the matter to be dealt with by resolution be identified as an agenda item when notice of the relevant meeting is sent to executive members, unless by unanimous resolution of present voting executive members, it is declared the matter shall be dealt with;
       4.14.2 That at least 50% of voting members of the executive be present when the resolution is passed;
-      4.14.3 A simple majority of present voting executive members to vote in favour of the resolution. In the event of a tie, the Co-Presidents shall have the casting vote if they are unanimous, otherwise the GEDI officer will have the casting vote. Executive members not present at the relevant meeting may nominate in advance another voting Executive member to act as their proxy. Each voting Executive may only carry one (1) proxy;
+      4.14.3 A simple majority of present voting executive members to vote in favour of the resolution. Co-Presidents count as individual votes. In the event of a tie, the Co-Presidents shall have the casting vote if they are unanimous, otherwise the GEDI officer will have the casting vote. Executive members not present at the relevant meeting may nominate in advance another voting Executive member to act as their proxy. Each voting Executive may only carry one (1) proxy;
       4.14.4 Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
       4.14.5 Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
 
