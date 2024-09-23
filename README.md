@@ -247,7 +247,10 @@ The official constitution of the UNSW Security Society.
         4.18.2.3 The results are to be declared at a General Meeting held within fourteen (14) days of the conclusion of voting.
     4.19 AGM Elections
       4.19.1 At least three (3) weeks prior to the AGM date, notice of the AGM and nomination procedure shall be given to members.
-    4.20 After a new executive team has been elected, the old executive team will remain in authority over any activities the club undertakes until the end of the final term of the University year.
+    4.20 After a new executive team has been elected:
+      4.20.1 The previous executive team will remain in authority over any activities run by their directors;
+      4.20.2 This can be overridden at the discretion of the newly elected executive team; and
+      4.20.3 This responsibility will terminate at the end of the final teaching period of the year, defined by the University's main academic calendar.
 
 # 5 FINANCE
     5.1 The club shall hold an account with a financial institution approved by Arc;
