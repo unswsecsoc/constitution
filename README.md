@@ -149,6 +149,7 @@ The official constitution of the UNSW Security Society.
             ii. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
            iii. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
             iv. To notify those involved of the outcome of the grievance.
+             v. To not act as counsellor during any grievances, but to ensure that anyone experiencing distress is provided with adequate resources on who to speak to or where to go to seek professional advice or help.
         b) To foster an inclusive and safe environment for all members of the Club, including:
              i. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, students who are women, gender diverse students, LGBTQIA+ students and indigenous students);
             ii. Engaging & representing student members of non-majority demographics of the Club;
@@ -158,7 +159,11 @@ The official constitution of the UNSW Security Society.
             vi. Providing guidance to representatives of the Club (Executives, directors, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
            vii. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive; and
           viii. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive
-        c) Other relevant duties as required by the Club.
+            ix. To lead efforts ensuring that your internal Club culture is positive and to prioritise and foster wellbeing and balance within the Club;
+             x. Ensure that club events will not result in poor wellbeing outcomes and will not lead to grievances from Club members and/or executives;
+        c) Undertake training as required to build understanding of how to look out for your peers and how to improve the internal culture of your Club;
+        d) Run training and information sessions to upskill the executive team in understanding the Club's grievance policy; and
+        e) Other relevant duties as required by the Club.
 
     3.9 Committee Members
       3.9.1 Committee positions are to be determined by the executive.
