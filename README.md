@@ -28,18 +28,32 @@ The official constitution of the UNSW Security Society.
 # 2 MEMBERSHIP
     2.1 Notwithstanding clause 2.1.1, contact details for members of your club are to remain with the Executive and Arc to have sole access. Contact details are not to be given or sold to any other person. 
         2.1.1 The Returning Officer specified in 4.17 shall have access to the contact details of those who choose to vote in an election. It must be made clear to the member that by choosing to vote, they are consenting to their contact details being given to the Returning Officer.
-    2.2 Full membership of the club shall be open to all UNSW students subject to affiliation requirements of Arc, and they shall be required to pay an annual club membership fee of at least $0, and complete a membership form.
-    2.3 Associate membership shall be open to all persons who are not UNSW students subject to affiliation requirements of Arc, provided that they pay a membership fee that is set by the club Executive, and they complete a membership form prepared by the club Executive.
-    2.4 The duration of a person's membership shall be until the club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
-    2.5 The club shall comply with anti-discrimination legislation in all of its activities and procedures, including the granting of club membership.
-    2.6 Notwithstanding clause 2.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.6.
-    2.7 Notwithstanding clause 2.8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
-      2.7.1 A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
-      2.7.2 The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
-      2.7.3 The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting;
-      2.7.4 The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting; and
-      2.7.5 The motion is carried by the Extraordinary General Meeting.
-    2.8 Any member of a club or club Executive who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
+    2.2 Full membership of the Club shall be open to all UNSW students, and they shall be required to pay an annual Club membership fee set by the Club Executive, and complete a membership form.
+    2.3 Associate membership shall be open to all persons who are not UNSW students, provided that they pay a membership fee that is set by the Club Executive, and they complete a membership form prepared by the Club Executive.
+    2.4 The duration of a person's membership shall be until the Club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
+    2.5 The Club shall comply with Anti-Discrimination legislation in all its activities and procedures, including the granting of Club membership.
+    2.6 Notwithstanding clause 2.9, a member of a Club Executive may have their position declared vacant according to the procedures set out in Section 3.8.
+    2.7 Notwithstanding clauses 2.8 and 2.9, an Executive, a member or associate member of a Club may have their membership terminated after the following procedure is followed:
+        2.7.1 A motion is carried by the Executive, or the Executive is petitioned by twenty (20) members to instigate impeachment proceedings;
+        2.7.2 The members of the Club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 2.2;
+        2.7.3 The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting.
+        2.7.4 The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting.
+        2.7.5 The motion is carried by the Extraordinary General Meeting.
+    2.8 Notwithstanding clause 2.9, an Executive, a member or associate member of a Club may have their membership terminated if the following occurs:
+        2.8.1 The person in question has acted in a way that has sabotaged the functions of the Club or disregarded the Constitution to the detriment of the Club's membership; and/or,
+        2.8.2 The person in question has instigated instances of bullying, harassment, assault and/or gendered violence to one or multiple individuals.
+        2.8.3 The Club has liaised with Arc about the person in question and Arc has determined the issue is of a serious nature.
+        2.8.4 That the Club has, in consultation with Arc, determined that a public EGM to remove the individual would cause undue harm to those that have been victimised or harmed.
+        2.8.5 Notice of a General Meeting must then be presented via the email they provided when signing up to the Club, to the person(s) in question, and the Executive, at least seven (7) days prior to the meeting.
+        2.8.6 This meeting must be held in-camera (privately) and the only people permitted to attend the meeting are:
+            2.8.6.1 Executive as listed within their Constitution, 
+            2.8.6.2 the person(s) in question,
+            2.8.6.3 a support person for each of the person(s) in question, as required 
+            2.8.6.4 Any member of Arc Clubs Management, as required
+        2.8.7 The person(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion. (refer to Arc Clubs Policy Section E, 33.5 - 33.11) 
+        2.8.8 The motion is carried by the General Meeting.
+    2.9 Any member of a Club or Club Executive who believes they have been wrongly expelled may appeal to the Clubs Tribunal, who will arrive at the final resolution of the matter.
+    2.10 Appeals must be submitted in writing within seven (7) days of receiving the penalty and must include a justification for seeking an appeal. 
 
 # 3 EXECUTIVE
     3.1 The Executive of the club shall be elected from the full members at the Annual General Meeting and shall consist of at least:
@@ -164,15 +178,19 @@ The official constitution of the UNSW Security Society.
 
 ## Annual General Meetings
     4.1 There shall be one (1) Annual General meeting every calendar year.
-    4.2 Notice in the form of an agenda for the Annual General Meeting shall be no less than seven (7) days, and is to be:
+    4.2 Notice in the form of an agenda for the Annual General Meeting shall be no less than fourteen (14) days, and is to be:
       4.2.1 Given in writing to Arc; and
       4.2.2 Given in writing to all club members, or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among club members.
-    4.3 Quorum for the Annual General Meeting shall be fifteen (15) members or one half of the club membership, whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
+    4.3 Quorum for the Annual General Meeting shall be:
+      4.3.1 Ten (10) or one half of the Club membership, whichever is the lesser, for all Clubs with less than 75 members, and for any other Club that has been active for less than 18 months from the time they first affiliated to Arc; or,
+      4.3.2 Fifteen (15) ordinary members for all Clubs with more than 75 members that have been active for more than 18 months from the time they first affiliated to Arc. An ordinary member is defined as a member of the Club that did not serve as Executive in the current year.
     4.4 At an Annual General Meeting:
       4.4.1 Reports shall be presented by at least the President and the Treasurer;
       4.4.2 Full financial reports shall be presented and adopted;
-      4.4.3 Elections for a new Executive shall be conducted; and
-      4.4.4 Constitutional amendments and other motions on notice may be discussed and voted upon.
+      4.4.3 Constitutional amendments and other motions on notice may be discussed and voted upon.
+      4.4.4 The Chair will hand over the meeting to the Returning Officer who will:
+        4.4.4.1 Hold elections for a new Executive; and/or if this has already happened online, 
+        4.4.4.2 Announce the winners and any other relevant information to attendees as required, before handing the meeting to the new, Incoming President, or in their absence, a duly elected Chair.
     4.5 Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
 
 ## Extraordinary General Meetings
@@ -266,7 +284,7 @@ The official constitution of the UNSW Security Society.
     5.3 All financial transactions shall require two (2) signatures of members of the Executive;
     5.4 The club shall nominate three (3) members of the Executive as possible signatories for the account, one (1) of which must be the club Treasurer;
     5.5 The financial records of the club shall be open for inspection by Arc at all times.
-    5.6 The assets and income of the club shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the club except as bona fide compensation for services rendered or expenses incurred on behalf of the club.
+    5.6 The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
 
 # 6 DISSOLUTION
     6.1 Dissolution of the club will occur after the following conditions have been met:
