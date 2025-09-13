@@ -11,7 +11,7 @@ The official constitution of the UNSW Security Society.
       1.3.3 Provide networking opportunities between students and companies in the security industry.
     1.4 In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N.E. Renton shall apply.
 
-## 2 DEFINITIONS
+# 2 DEFINITIONS
     2.1 For the purposes of this Constitution:
       2.1.1 The University shall mean the University of New South Wales;
       2.1.2 Arc shall mean Arc @ UNSW Limited;
@@ -24,6 +24,9 @@ The official constitution of the UNSW Security Society.
       2.1.9 An academic day shall mean a day during the first, second, or third term of the University's academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; and
       2.1.10 Subjects shall mean units of study offered by the University in progression to the award of a degree.
     2.2 Unless a contrary statement appears in Section 9 of this Constitution, the club shall be bound by all the clauses in Section 3 to Section 8 of this Constitution.
+
+# 3 Not-for-profit clause
+    3.1 The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organization
 
 # 4 MEMBERSHIP
     4.1 Notwithstanding clause 4.1.1, contact details for members of your club are to remain with the Executive and Arc to have sole access. Contact details are not to be given or sold to any other person. 
