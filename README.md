@@ -60,36 +60,40 @@ The official constitution of the UNSW Security Society.
 
 # 5 EXECUTIVE
     5.1 The Executive of the club shall be elected from the full members at the Annual General Meeting and shall consist of at least:
-      5.1.1 Two (2) Co-Presidents
-      5.1.2 A Secretary;
-      5.1.3 A Treasurer; and
-      5.1.4 An Arc Delegate; and
-      5.1.5 A Grievance, Equity, Diversity, and Inclusion (GEDI) Officer.
-    5.2 One (1) member is permitted to hold two (2) Executive positions, provided that a minimum of three (3) different members shall remain on the Executive at all times, with the following exceptions:
-      5.2.1 Both Co-President positions may not be held by the same person;
-      5.2.2 Co-President and Treasurer may not be held by the same person;
-      5.2.3 Co-President and GEDI Officer may not be held by the same person.
-    5.3 Job sharing of any Executive position is not permitted.
-    5.4 The Executive shall be responsible for the following duties:
-      5.4.1 The activities of the club;
-      5.4.2 The finances of the club;
-      5.4.3 The maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure.
-    5.5 The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
-    5.6 Any member of the Executive shall have their position declared vacant if they:
-      5.6.1 Die;
-      5.6.2 Cease to be a member of the club;
-      5.6.3 Cease to be a UNSW student;
-      5.6.4 Are absent from any three (3) consecutive meetings of the club without apology or leave; or
-        5.6.4.1 Unless exempted unanimously by the Executive.
-      5.6.5 The person fails to fulfil reasonable obligations delegated by:
-        5.6.5.1 The Constitution, or
-        5.6.5.2 The Executive, or
-        5.6.5.3 Any other supplementary regulations.
-        5.6.5.4 Unless exempted unanimously by the Executive.
-      5.6.6 Have their position declared vacant at an Extraordinary General Meeting.
-    5.7 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 6.
-    5.8 Duties of the following Executive positions shall include but not be limited to:
-      5.8.1 Co-Presidents
+      5.1.1 A President;
+      5.1.2 A Vice President of Externals;
+      5.1.3 A Vice President of Internals;
+      5.1.4 A Vice President of Technicals;
+      5.1.5 A Treasurer; and
+      5.1.6 A Grievance, Equity, Diversity, and Inclusion (GEDI) Officer.
+    5.2 The term of office for each Executive elected at an AGM shall start at the conclusion of Term 3 in the current year (unless voted otherwise by the incoming executives under clause 6.20) and continue until the conclusion of Term 3 in the subsequent calendar year (or they lose authority under clause 6.20).
+    5.3 Any Executive elected at an EGM will serve from the date of their election until the end of the next Term 3 in any given calendar year.
+    5.4 One (1) member is permitted to hold two (2) Executive positions, provided that a minimum of three (3) different members shall remain on the Executive at all times, with the following exceptions:
+      5.4.1 President and Treasurer may not be held by the same person;
+      5.4.2 President and GEDI Officer may not be held by the same person.
+    5.5 Job sharing of any Executive position is not permitted.
+    5.6 The Executive shall be responsible for the following duties:
+      5.6.1 The activities of the club;
+      5.6.2 The finances of the club;
+      5.6.3 Appointing members to the Committee;
+      5.6.4 The maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure.
+    5.7 The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
+    5.8 Any member of the Executive shall have their position declared vacant if they:
+      5.8.1 Die;
+      5.8.2 Cease to be a member of the club;
+      5.8.3 Cease to be a UNSW student;
+      5.8.4 Are absent from any three (3) consecutive meetings of the club without apology or leave; or
+        5.8.4.1 Unless exempted unanimously by the Executive.
+      5.8.5 The person fails to fulfil reasonable obligations delegated by:
+        5.8.5.1 The Constitution, or
+        5.8.5.2 The Executive, or
+        5.8.5.3 Any other supplementary regulations.
+        5.8.5.4 Unless exempted unanimously by the Executive.
+      5.8.6 Have their position declared vacant at an Extraordinary General Meeting.
+    5.9 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
+    5.10 Duties of the following Executive positions shall include but not be limited to:
+
+    5.10.1 President
         a) To chair all club, Committee, General and Annual General Meetings (held during their term) of the club or society;
         b) To oversee and coordinate the activities and administration of the club;
         c) To ensure that the elected officers of the club or society perform duties as laid down by the clubs' Constitution, through regular email updates, regularly advertised meetings, reports and notices and/or regular newsletters;
@@ -113,14 +117,25 @@ The official constitution of the UNSW Security Society.
         r) To ensure that motions made at any Meeting of the Club are reflective of the constitution;
         s) Other duties as in accordance with the Constitution of the club.
 
-      5.8.2 Secretary
-        a) To be responsible for receiving and replying to all correspondence on behalf of the club;
-        b) To organise meetings, agendas (in consultation with the Co-Presidents), and minutes;
-        c) To keep relevant club papers in order;
-        d) To coordinate elections; and
-        e) To maintain the membership list, updating when changes are made.
+      5.10.2 Vice President of Externals
+        a) To organise external meetings, agendas (in consultation with the President), and meeting minutes;
+        b) To act as the delegate of the club to external bodies, and be responsible for managing relations with external entities and organisations;
+        c) To be responsible for receiving and replying to all correspondence on behalf of the club;
+        d) Manage and oversee the Club’s presence on social and professional media platforms.
 
-      5.8.3 Treasurer
+      5.10.3 Vice President of Internals
+        a) To organise internal meetings, agendas (in consultation with the President), and meeting minutes;
+        b) To keep relevant club papers in order;
+        c) Administer and coordinate all elections of the Club in accordance with this Constitution;
+        d) Administer and coordinate voting procedures and documentation of dispute resolution by vote in accordance with the constitution.
+
+      5.10.4 Vice President of Technicals
+        a) To maintain, oversee, and improve upon the Club’s digital infrastructure;
+        b) To ensure that the Club's infrastructure is secure, reliable, and compliant with University and Arc requirements, including data protection and privacy obligations;
+        c) To manage and coordinate technical projects on behalf of the society, ensuring that objectives are clearly defined, progress is tracked, and deliverables are met on time.
+        d) To fully document and hand over technical systems, accounts, and infrastructure to their successor at the end of their term, ensuring continuity of operations.
+
+      5.10.5 Treasurer
         a) To keep and maintain all club financial records;
         b) To hold cheque books, petty cash tins etc;
         c) To keep the club informed of its financial position (at meetings, through regular email reports, or regular newsletter;
@@ -135,18 +150,16 @@ The official constitution of the UNSW Security Society.
         l) To ensure that club funds are not misused at any time;
         m) To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained; and
         n) To ensure that under no circumstances are any expenses to be met without documentation.
+        o) To be aware of the Arc funding system, its requirements and its possibilities for the club;
+        p) To communicate with the Executive before and after each Arc Clubs General Meeting to pass on information (about grants etc);
+        q) To liaise with Arc and the club's Executive;
+        r) To have a good working knowledge of Arc forms;
+        s) To clear out the club's pigeonhole in the Arc Resource Centre at least every two (2) weeks;
+        t) To attend Arc Clubs General Meetings or nominate a fellow club member to attend on your behalf, or send advance apologies (taking the form of a written note detailing your name, club, and the date of the meeting you can not attend);
+        u) To ensure that Arc is informed of any changes to the Executive; and
+        v) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements.
 
-      5.8.4 Arc Delegate
-        a) To be aware of the Arc funding system, its requirements and its possibilities for the club;
-        b) To communicate with the Executive before and after each Arc Clubs General Meeting to pass on information (about grants etc);
-        c) To liaise with Arc and the club's Executive;
-        d) To have a good working knowledge of Arc forms;
-        e) To clear out the club's pigeonhole in the Arc Resource Centre at least every two (2) weeks;
-        f) To attend Arc Clubs General Meetings or nominate a fellow club member to attend on your behalf, or send advance apologies (taking the form of a written note detailing your name, club, and the date of the meeting you can not attend);
-        g) To ensure that Arc is informed of any changes to the Executive; and
-        h) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements.
-
-      5.8.5 Grievance, Equity, Diversity, and Inclusion (GEDI) Officer
+      5.10.6 Grievance, Equity, Diversity, and Inclusion (GEDI) Officer
         a) To be responsible for matters relating to grievances, including but not limited to:
              i. To receive complaints and grievances relating to the Club;
             ii. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
@@ -168,14 +181,14 @@ The official constitution of the UNSW Security Society.
         d) Run training and information sessions to upskill the executive team in understanding the Club's grievance policy; and
         e) Other relevant duties as required by the Club.
 
-    5.9 Committee Members
-      5.9.1 Committee positions are to be determined by the executive.
-      5.9.2 Committee positions are to be published and outlined to the society members in the Committee Regulations prior to appointing the committee members.
-        5.9.2.1 The Committee Regulations must outline a description of the position and any responsibilities, duties and obligations that position holds.
-      5.9.3 Committee members are to be appointed by a majority vote of the executive
-      5.9.4 Any member of the Committee shall have their position declared vacant if they:
-        5.9.4.1 Meet the criteria outlined in section 5.6; or
-        5.9.4.2 Are removed from their role by majority vote of the executive.
+    5.11 Committee Members
+      5.11.1 Committee positions are to be determined by the executive.
+      5.11.2 Committee positions are to be published and outlined to the society members in the Committee Regulations prior to appointing the committee members.
+        5.11.2.1 The Committee Regulations must outline a description of the position and any responsibilities, duties and obligations that position holds.
+      5.11.3 Committee members are to be appointed by a majority vote of the executive
+      5.11.4 Any member of the Committee shall have their position declared vacant if they:
+        5.11.4.1 Meet the criteria outlined in section 5.8; or
+        5.11.4.2 Are removed from their role by majority vote of the executive.
 
 # 6 MEETINGS
 
