@@ -201,7 +201,7 @@ The official constitution of the UNSW Security Society.
       6.3.1 Ten (10) or one half of the Club membership, whichever is the lesser, for all Clubs with less than 75 members, and for any other Club that has been active for less than 18 months from the time they first affiliated to Arc; or,
       6.3.2 Fifteen (15) ordinary members for all Clubs with more than 75 members that have been active for more than 18 months from the time they first affiliated to Arc. An ordinary member is defined as a member of the Club that did not serve as Executive in the current year.
     6.4 At an Annual General Meeting:
-      6.4.1 Reports shall be presented by at least one of the Co-Presidents and the Treasurer;
+      6.4.1 Reports shall be presented by the President and the Treasurer;
       6.4.2 Full financial reports shall be presented and adopted;
       6.4.3 Constitutional amendments and other motions on notice may be discussed and voted upon.
       6.4.4 The Chair will hand over the meeting to the Returning Officer who will:
@@ -225,14 +225,14 @@ The official constitution of the UNSW Security Society.
     6.13 Meetings shall be conducted:
       6.13.1 At least once per month;
         6.13.1.1 Unless otherwise agreed upon by a majority of the executive
-      6.13.2 When called upon by a Co-President;
+      6.13.2 When called upon by the President;
       6.13.3 When requested by three (3) members of the Committee; and
       6.13.4 In open session unless the Executive resolves to discuss a matter in closed session.
         6.13.4.1 Open session meetings are to be publicised a week in advance to the meeting date.
     6.14 Valid Executive Resolutions shall require:
       6.14.1 That the matter to be dealt with by resolution be identified as an agenda item when notice of the relevant meeting is sent to executive members, unless by unanimous resolution of present voting executive members, it is declared the matter shall be dealt with;
       6.14.2 That at least 50% of voting members of the executive be present when the resolution is passed;
-      6.14.3 A simple majority of present voting executive members to vote in favour of the resolution. Co-Presidents count as individual votes. In the event of a tie, the Co-Presidents shall have the casting vote if they are unanimous, otherwise the GEDI officer will have the casting vote. Executive members not present at the relevant meeting may nominate in advance another voting Executive member to act as their proxy. Each voting Executive may only carry one (1) proxy;
+      6.14.3 A simple majority of present voting executive members to vote in favour of the resolution. In the event of a tie, the President shall have the casting vote. Executive members not present at the relevant meeting may nominate in advance another voting Executive member to act as their proxy. Each voting Executive may only carry one (1) proxy;
       6.14.4 Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
       6.14.5 Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
 
