@@ -304,7 +304,6 @@ The official constitution of the UNSW Security Society.
     7.3 All financial transactions shall require two (2) signatures of members of the Executive;
     7.4 The club shall nominate three (3) members of the Executive as possible signatories for the account, one (1) of which must be the club Treasurer;
     7.5 The financial records of the club shall be open for inspection by Arc at all times.
-    7.6 The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
 
 # 8 DISSOLUTION
     8.1 Dissolution of the club will occur after the following conditions have been met:
