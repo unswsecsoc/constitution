@@ -111,8 +111,8 @@ The official constitution of the UNSW Security Society.
           5.1.6 A Grievance, Equity, Diversity, and Inclusion (GEDI) Officer.
     5.2 The term of office for each Executive elected at an AGM shall start at the conclusion of
         Term 3 in the current year (unless voted otherwise by the incoming executives under clause
-        6.20) and continue until the conclusion of Term 3 in the subsequent calendar year (or they
-        lose authority under clause 6.20).
+        6.22) and continue until the conclusion of Term 3 in the subsequent calendar year (or they
+        lose authority under clause 6.22).
     5.3 Any Executive elected at an EGM will serve from the date of their election until the end
         of the next Term 3 in any given calendar year.
     5.4 One (1) member is permitted to hold two (2) Executive positions, provided that a minimum
@@ -413,80 +413,80 @@ The official constitution of the UNSW Security Society.
                 conclusion of the voting process.
           6.17.11 Where there is a clash between this Club’s Constitution and Arc Clubs Policy,
                 Arc Clubs Policy takes precedence.
-    6.16 Elections requirements are stated as follows:
-          6.16.1 Optional preferential voting shall be used;
-          6.16.2 Voting for all positions shall be conducted simultaneously (where applicable);
-          6.16.3 Members who nominate themselves for candidacy for more than one (1) position must
+    6.18 Elections requirements are stated as follows:
+          6.18.1 Optional preferential voting shall be used;
+          6.18.2 Voting for all positions shall be conducted simultaneously (where applicable);
+          6.18.3 Members who nominate themselves for candidacy for more than one (1) position must
                 provide an order of preference;
-          6.16.4 If a candidate wins more than one (1) position, the candidate shall be elected to
+          6.18.4 If a candidate wins more than one (1) position, the candidate shall be elected to
                 their most preferred position, and votes for the vacated position(s) shall be
                 counted again (unless there are no other candidates in the vacated position).
-          6.16.5 If nominations are taken in advance:
-                  6.16.5.1 All eligible members must receive notice of the nominations period
+          6.18.5 If nominations are taken in advance:
+                  6.18.5.1 All eligible members must receive notice of the nominations period
                           before its commencement, as well as details of the nomination process.
-                  6.16.5.2 Nominations must be open for at least seven (7) days.
-                  6.16.5.3 Members who wish to submit themselves as nomination candidate:
-                            6.16.5.3.1 Must do so directly to the Returning Officer; and
-                            6.16.5.3.2 Must confirm their nomination by emailing the returning
+                  6.18.5.2 Nominations must be open for at least seven (7) days.
+                  6.18.5.3 Members who wish to submit themselves as nomination candidate:
+                            6.18.5.3.1 Must do so directly to the Returning Officer; and
+                            6.18.5.3.2 Must confirm their nomination by emailing the returning
                                       officer using their UNSW email, before voting begins.
-                  6.16.5.4 Only the returning officer may view the list of nominations until
+                  6.18.5.4 Only the returning officer may view the list of nominations until
                           nominations have closed.
-                  6.16.5.5 At the start of the voting period:
-                          6.16.5.5.1 An official ballot shall be sent to members;
-                          6.16.5.5.2 The ballot will disclose the preferred position of each
+                  6.18.5.5 At the start of the voting period:
+                          6.18.5.5.1 An official ballot shall be sent to members;
+                          6.18.5.5.2 The ballot will disclose the preferred position of each
                                     confirmed candidate; and
-                          6.16.5.5.3 The order of candidates for each position on the ballot will
+                          6.18.5.5.3 The order of candidates for each position on the ballot will
                                     be random.
-                  6.16.5.6 For any position for which there are no confirmed candidates at the
+                  6.18.5.6 For any position for which there are no confirmed candidates at the
                           close of nominations, nominations for those positions will be valid if
                           received at the General Meeting.
-    6.17 All election candidates:
-          6.17.1 Must not run in coalitions; and
-          6.17.2 May campaign for their positions subject to the following procedures:
-                  6.17.2.1 The current or outgoing executives, and committee may not support or
+    6.19 All election candidates:
+          6.19.1 Must not run in coalitions; and
+          6.19.2 May campaign for their positions subject to the following procedures:
+                  6.19.2.1 The current or outgoing executives, and committee may not support or
                           criticise any candidate for election other than themselves; and
-                  6.17.2.2 The current or outgoing executives, and committee who are campaigning
+                  6.19.2.2 The current or outgoing executives, and committee who are campaigning
                           for themselves may not use any privileges or permissions from their
                           position;
-          6.17.3 At the General Meeting at which the election was held (unless they are the only
+          6.19.3 At the General Meeting at which the election was held (unless they are the only
                 candidate for a position), will have their elected position given to the next
                 candidate in line if:
-                  6.17.3.1 They do not attend (unless the candidate has given an excuse), or
-                  6.17.3.2 They wish to no longer accept their position.
-    6.18 Elections may take place as one of the following forms, provided they satisfy all
+                  6.19.3.1 They do not attend (unless the candidate has given an excuse), or
+                  6.19.3.2 They wish to no longer accept their position.
+    6.20 Elections may take place as one of the following forms, provided they satisfy all
         existing election requirements as set out in this constitution and their requirements as
         set out below:
-          6.18.1 Ballot Elections
-                  6.18.1.1 Nominations will be open at least one (1) week before the election, and
+          6.20.1 Ballot Elections
+                  6.20.1.1 Nominations will be open at least one (1) week before the election, and
                           close the day before the election;
-                  6.18.1.2 Additional nominations received at the General Meeting are valid;
-                  6.18.1.3 All present members shall be provided a paper ballot;
-                  6.18.1.4 Candidates may campaign at the meeting before voting begins. If unable
+                  6.20.1.2 Additional nominations received at the General Meeting are valid;
+                  6.20.1.3 All present members shall be provided a paper ballot;
+                  6.20.1.4 Candidates may campaign at the meeting before voting begins. If unable
                           to do so, the Returning Officer shall read out their blurb, if any was
                           provided.
-          6.18.2 Online Elections
-                  6.18.2.1 At least two (2) weeks before the election:
-                            6.18.2.1.1 Nominations will open; and
-                            6.18.2.1.2 Members will be notified that they need to sign up to the
+          6.20.2 Online Elections
+                  6.20.2.1 At least two (2) weeks before the election:
+                            6.20.2.1.1 Nominations will open; and
+                            6.20.2.1.2 Members will be notified that they need to sign up to the
                                       society on Rubric before voting begins to be eligible to
                                       vote.
-                  6.18.2.2 At least five (5) days before the election:
-                            6.18.2.2.1 Nominations will close;
-                            6.18.2.2.2 Candidates may start campaigning; and
-                            6.18.2.2.3 Voting will begin, where official ballots shall only be
+                  6.20.2.2 At least five (5) days before the election:
+                            6.20.2.2.1 Nominations will close;
+                            6.20.2.2.2 Candidates may start campaigning; and
+                            6.20.2.2.3 Voting will begin, where official ballots shall only be
                                       sent to all members who have signed up to the society on
                                       Rubric.
-                  6.18.2.3 The results are to be declared at a General Meeting held within
+                  6.20.2.3 The results are to be declared at a General Meeting held within
                           fourteen (14) days of the conclusion of voting.
-    6.19 AGM Elections
-          6.19.1 At least three (3) weeks prior to the AGM date, notice of the AGM and nomination
+    6.21 AGM Elections
+          6.21.1 At least three (3) weeks prior to the AGM date, notice of the AGM and nomination
                 procedure shall be given to members.
-    6.20 After a new executive team is elected:
-          6.20.1 The previous executive team will retain delegated authority over activities run
+    6.22 After a new executive team is elected:
+          6.22.1 The previous executive team will retain delegated authority over activities run
                 by their directors and subcommittee;
-          6.20.2 The incoming executive team may revoke this delegation by a majority vote among
+          6.22.2 The incoming executive team may revoke this delegation by a majority vote among
                 themselves; and
-          6.20.3 This authority will end at the conclusion of the final teaching period of the
+          6.22.3 This authority will end at the conclusion of the final teaching period of the
                 year, as defined by the University's main academic calendar.
 
 # 7 FINANCE
