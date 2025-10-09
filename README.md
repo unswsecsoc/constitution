@@ -10,8 +10,11 @@ The official constitution of the UNSW Security Society.
           1.3.2 Host events to facilitate the development of skills and knowledge of security; and
           1.3.3 Provide networking opportunities between students and companies in the security
                 industry.
-    1.4 In all matters not specifically dealt with herein, the procedures set out in the latest
+    1.4 The society will be a Constituent society since it has an agreed association with School
+        of Computer Science and Engineering, which is ratified by Arc.
+    1.5 In all matters not specifically dealt with herein, the procedures set out in the latest
         edition of Guide for Meetings and Organisations by N.E. Renton shall apply.
+      
 
 # 2 DEFINITIONS
     2.1 For the purposes of this Constitution:
@@ -49,6 +52,8 @@ The official constitution of the UNSW Security Society.
     4.2 Full membership of the Club shall be open to all UNSW students, and they shall be required
         to pay an annual Club membership fee set by the Club Executive, and complete a membership
         form.
+        4.2.1 Full membership shall be automatically conferred to students enrolled in a
+            UNSW-administered security degree.
     4.3 Associate membership shall be open to all persons who are not UNSW students, provided that
         they pay a membership fee that is set by the Club Executive, and they complete a
         membership form prepared by the Club Executive.
