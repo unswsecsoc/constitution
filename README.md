@@ -10,24 +10,28 @@ The official constitution of the UNSW Security Society.
           1.3.2 Host events to facilitate the development of skills and knowledge of security; and
           1.3.3 Provide networking opportunities between students and companies in the security
                 industry.
-    1.4 In all matters not specifically dealt with herein, the procedures set out in the latest
+    1.4 The society will be a Constituent society since it has an agreed association with the 
+        School of CSE, which is ratified by Arc.
+    1.5 In all matters not specifically dealt with herein, the procedures set out in the latest
         edition of Guide for Meetings and Organisations by N.E. Renton shall apply.
+      
 
 # 2 DEFINITIONS
     2.1 For the purposes of this Constitution:
           2.1.1 The University shall mean the University of New South Wales;
-          2.1.2 Arc shall mean Arc @ UNSW Limited;
-          2.1.3 Re-affiliation shall mean re-affiliation with Arc;
-          2.1.4 Members shall mean full members of the club;
-          2.1.5 Associate members shall mean associate members of the club;
-          2.1.6 The Executive shall mean the Executive of the club;
-          2.1.7 The Committee shall mean the Executive of the club as well as any member appointed
+          2.1.2 The School of CSE shall mean the UNSW School of Computer Science and Engineering;
+          2.1.3 Arc shall mean Arc @ UNSW Limited;
+          2.1.4 Re-affiliation shall mean re-affiliation with Arc;
+          2.1.5 Members shall mean full members of the club;
+          2.1.6 Associate members shall mean associate members of the club;
+          2.1.7 The Executive shall mean the Executive of the club;
+          2.1.8 The Committee shall mean the Executive of the club as well as any member appointed
                 by the Executive to fill a specific role;
-          2.1.8 The Annual General Meeting shall mean the Annual General Meeting of the club;
-          2.1.9 An academic day shall mean a day during the first, second, or third term of the
+          2.1.9 The Annual General Meeting shall mean the Annual General Meeting of the club;
+          2.1.10 An academic day shall mean a day during the first, second, or third term of the
                 University's academic year which is not a Saturday, Sunday, Public Holiday or
                 University Holiday; and
-          2.1.10 Subjects shall mean units of study offered by the University in progression to
+          2.1.11 Subjects shall mean units of study offered by the University in progression to
                 the award of a degree.
     2.2 Unless a contrary statement appears in Section 9 of this Constitution, the club shall be
         bound by all the clauses in Section 3 to Section 8 of this Constitution.
@@ -49,6 +53,8 @@ The official constitution of the UNSW Security Society.
     4.2 Full membership of the Club shall be open to all UNSW students, and they shall be required
         to pay an annual Club membership fee set by the Club Executive, and complete a membership
         form.
+        4.2.1 Full membership shall be automatically conferred to students enrolled in a
+            UNSW-administered security degree.
     4.3 Associate membership shall be open to all persons who are not UNSW students, provided that
         they pay a membership fee that is set by the Club Executive, and they complete a
         membership form prepared by the Club Executive.
