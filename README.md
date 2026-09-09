@@ -483,8 +483,8 @@ The official constitution of the UNSW Security Society.
                   6.20.2.3 The results are to be declared at a General Meeting held within
                           fourteen (14) days of the conclusion of voting.
     6.21 AGM Elections
-          6.21.1 At least three (3) weeks prior to the AGM date, notice of the AGM and nomination
-                procedure shall be given to members.
+          6.21.1 The notice provided under clause 6.2 must include the nomination procedure for
+                AGM elections.
     6.22 After a new executive team is elected:
           6.22.1 The previous executive team will retain delegated authority over activities run
                 by their directors and subcommittee;
