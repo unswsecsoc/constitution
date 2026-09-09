@@ -53,8 +53,6 @@ The official constitution of the UNSW Security Society.
     4.2 Full membership of the Club shall be open to all UNSW students, and they shall be required
         to pay an annual Club membership fee set by the Club Executive, and complete a membership
         form.
-        4.2.1 Full membership shall be automatically conferred to students enrolled in a
-            UNSW-administered security degree.
     4.3 Associate membership shall be open to all persons who are not UNSW students, provided that
         they pay a membership fee that is set by the Club Executive, and they complete a
         membership form prepared by the Club Executive.
