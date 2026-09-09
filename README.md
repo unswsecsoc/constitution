@@ -174,15 +174,10 @@ The official constitution of the UNSW Security Society.
            by Arc;
         n) To ensure that Arc is informed of changes to the Executive;
         o) To pass on their knowledge to their successor; and
-        p) To be responsible for matters relating to sponsorship and funding from outside
-           organisations other than Arc, including but not limited to:
-            i. Liaising with such outside organisations;
-           ii. Establishing the sponsorship proposal for the year; and
-          iii. Organising events run in conjunction with sponsors.
-        q) To arrive at a budget with the Executive;
-        r) To ensure that motions made at any Meeting of the Club are reflective of the
+        p) To arrive at a budget with the Executive;
+        q) To ensure that motions made at any Meeting of the Club are reflective of the
            constitution;
-        s) Other duties as in accordance with the Constitution of the club.
+        r) Other duties as in accordance with the Constitution of the club.
 
       5.10.2 Vice President of Externals
         a) To organise external meetings, agendas (in consultation with the President), and
@@ -197,10 +192,10 @@ The official constitution of the UNSW Security Society.
         a) To organise internal meetings, agendas (in consultation with the President), and
            meeting minutes;
         b) To keep relevant club papers in order;
-        c) Administer and coordinate all elections of the Club in accordance with this
+        c) To coordinate elections and liaise with the Returning Officer in accordance with this
            Constitution;
-        d) Administer and coordinate voting procedures and documentation of dispute resolution by
-           vote in accordance with the constitution.
+        d) To have a good working knowledge of Arc forms;
+        e) To coordinate recruitment, onboarding and internal Committee operations.
 
       5.10.4 Vice President of Technicals
         a) To maintain, oversee, and improve upon the Club’s digital infrastructure;
