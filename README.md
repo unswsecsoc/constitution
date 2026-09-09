@@ -58,9 +58,8 @@ The official constitution of the UNSW Security Society.
     4.3 Associate membership shall be open to all persons who are not UNSW students, provided that
         they pay a membership fee that is set by the Club Executive, and they complete a
         membership form prepared by the Club Executive.
-    4.4 The duration of a person's membership shall be until the Club's next Annual General
-        Meeting after they have become a member, or until the end of Week One in Term One of the
-        University year after they have become a member, whichever is the latter.
+    4.4 A person's membership commences on the date they purchase membership and remains valid
+        until the end of Week Three of Term One of the following calendar year.
     4.5 The Club shall comply with Anti-Discrimination legislation in all its activities and
         procedures, including the granting of Club membership.
     4.6 Notwithstanding clause 4.9, a member of a Club Executive may have their position declared
@@ -96,7 +95,7 @@ The official constitution of the UNSW Security Society.
                   4.8.6.1 Executive as listed within their Constitution,
                   4.8.6.2 the person(s) in question,
                   4.8.6.3 a support person for each of the person(s) in question, as required
-                  4.8.6.4 Any member of Arc Clubs Management, as required
+                  4.8.6.4 Any member of Arc, as required
           4.8.7 The person(s) in question must be afforded procedural fairness, including five (5)
                 minutes to speak against the motion. (Refer to Arc Clubs Policy Section E, 33.5 -
                 33.11)
@@ -393,7 +392,7 @@ The official constitution of the UNSW Security Society.
     6.17 The Returning Officers duties are as follows:
           6.17.1 Ensure that they are at all times impartial and objective and cannot be
                 determined to have a real or perceived conflict of interest by Club members,
-                Executive or by Arc Clubs Management.
+                Executive or by Arc.
           6.17.2 Ensure that all elections are run fairly and in line with the rules set out by
                 this Club’s Constitution and according to Arc Clubs Policy and Procedure.
           6.17.3 Prepare and circulate all notices of election, nominations, voting and proxies to
@@ -404,8 +403,8 @@ The official constitution of the UNSW Security Society.
                 Constitution and Arc Clubs Policy and treat any defective or late nominations in
                 the manner prescribed by this Club’s Constitution and/or Arc policy.
           6.17.6 If voting is to take place online, ensure that the appointed Returning Officer(s)
-                are the only person(s), alongside Arc Clubs Management, with access to the voting
-                forms and spreadsheets.
+                are the only person(s), alongside Arc, with access to the voting forms and
+                spreadsheets.
           6.17.7 If voting is to take place in person, ensure that they have provided all members
                 with instructions surrounding proxies, have received any proxies via accepted
                 channels and determined the validity of proxies submitted prior to the General
@@ -420,7 +419,8 @@ The official constitution of the UNSW Security Society.
           6.17.11 Where there is a clash between this Club’s Constitution and Arc Clubs Policy,
                 Arc Clubs Policy takes precedence.
     6.18 Elections requirements are stated as follows:
-          6.18.1 Optional preferential voting shall be used;
+          6.18.1 Regular Single Transferable Vote (STV) / Instant Runoff Voting (IRV) shall be
+                used;
           6.18.2 Voting for all positions shall be conducted simultaneously (where applicable);
           6.18.3 Members who nominate themselves for candidacy for more than one (1) position must
                 provide an order of preference;
