@@ -302,7 +302,8 @@ The official constitution of the UNSW Security Society.
 
 ## Annual General Meetings
 
-    6.1 There shall be one (1) Annual General meeting every calendar year.
+    6.1 There shall be one (1) Annual General meeting every calendar year, held during the
+        reaffiliation period designated by Arc in Term 3.
     6.2 Notice in the form of an agenda for the Annual General Meeting shall be no less than
         fourteen (14) days, and is to be:
           6.2.1 Given in writing to Arc; and
@@ -335,6 +336,8 @@ The official constitution of the UNSW Security Society.
 
     6.6 There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned
         under clause 6.8.
+          6.6.1 An Extraordinary General Meeting may not be held in the two (2) weeks before the
+                Annual General Meeting.
     6.7 The format, procedures, notice and quorum for an Extraordinary General Meeting shall be
         the same as for an Annual General Meeting, except that Executive elections will not be
         held unless specifically notified.
