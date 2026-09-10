@@ -475,7 +475,8 @@ The official constitution of the UNSW Security Society.
           6.20.1 Ballot Elections
                   6.20.1.1 Nominations will open at least eight (8) days before the election, and
                           close the day before the election;
-                  6.20.1.2 All present members shall be provided a paper ballot;
+                  6.20.1.2 All present members shall be provided a ballot, in paper or
+                          electronic form;
                   6.20.1.3 Candidates may campaign at the meeting before voting begins.
           6.20.2 Online Elections
                   6.20.2.1 At least fourteen (14) days before voting commences, notice of the
