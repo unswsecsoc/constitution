@@ -473,7 +473,7 @@ The official constitution of the UNSW Security Society.
         existing election requirements as set out in this constitution and their requirements as
         set out below:
           6.20.1 Ballot Elections
-                  6.20.1.1 Nominations will be open at least one (1) week before the election, and
+                  6.20.1.1 Nominations will open at least eight (8) days before the election, and
                           close the day before the election;
                   6.20.1.2 All present members shall be provided a paper ballot;
                   6.20.1.3 Candidates may campaign at the meeting before voting begins.
@@ -490,7 +490,8 @@ The official constitution of the UNSW Security Society.
                             6.20.2.2.2 Candidates may start campaigning.
                   6.20.2.3 Voting will begin no earlier than fourteen (14) days after notice is
                           given under clause 6.20.2.1, where official ballots shall only be sent
-                          to all members who have signed up to the society on Rubric.
+                          to all members who have signed up to the society on Rubric. Voting
+                          shall remain open for at least five (5) days.
                   6.20.2.4 The results are to be declared at an Annual or Extraordinary General
                           Meeting held on the next academic day after voting ends.
     6.21 The notice provided under clause 6.2 must include the nomination procedure for AGM
