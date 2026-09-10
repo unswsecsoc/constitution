@@ -3,6 +3,7 @@
 The official constitution of the UNSW Security Society.
 
 # 1 INTRODUCTION
+
     1.1 The official name of the club shall be "The Security Society of UNSW".
     1.2 The club shall be affiliated with Arc.
     1.3 The aims and objectives of the club are to:
@@ -10,40 +11,39 @@ The official constitution of the UNSW Security Society.
           1.3.2 Host events to facilitate the development of skills and knowledge of security; and
           1.3.3 Provide networking opportunities between students and companies in the security
                 industry.
-    1.4 The society will be a Constituent society since it has an agreed association with the 
+    1.4 The society will be a Constituent society since it has an agreed association with the
         School of CSE, which is ratified by Arc.
-    1.5 In all matters not specifically dealt with herein, the procedures set out in the latest
-        edition of Guide for Meetings and Organisations by N.E. Renton shall apply.
-      
 
 # 2 DEFINITIONS
+
     2.1 For the purposes of this Constitution:
           2.1.1 The University shall mean the University of New South Wales;
           2.1.2 The School of CSE shall mean the UNSW School of Computer Science and Engineering;
           2.1.3 Arc shall mean Arc @ UNSW Limited;
-          2.1.4 Re-affiliation shall mean re-affiliation with Arc;
-          2.1.5 Members shall mean full members of the club;
-          2.1.6 Associate members shall mean associate members of the club;
-          2.1.7 The Executive shall mean the Executive of the club;
-          2.1.8 The Committee shall mean the Executive of the club as well as any member appointed
+          2.1.4 Members shall mean full members of the club;
+          2.1.5 Associate members shall mean associate members of the club;
+          2.1.6 The Executive shall mean the Executive of the club;
+          2.1.7 The Committee shall mean the Executive of the club as well as any member appointed
                 by the Executive to fill a specific role;
-          2.1.9 The Annual General Meeting shall mean the Annual General Meeting of the club;
-          2.1.10 An academic day shall mean a day during the first, second, or third term of the
+          2.1.8 The Annual General Meeting shall mean the Annual General Meeting of the club;
+          2.1.9 An academic day shall mean a day during the first, second, or third term of the
                 University's academic year which is not a Saturday, Sunday, Public Holiday or
                 University Holiday; and
-          2.1.11 Subjects shall mean units of study offered by the University in progression to
+          2.1.10 Subjects shall mean units of study offered by the University in progression to
                 the award of a degree.
     2.2 Unless a contrary statement appears in Section 9 of this Constitution, the club shall be
-        bound by all the clauses in Section 3 to Section 8 of this Constitution.
+        bound by all the clauses in Section 1 to Section 8 of this Constitution.
 
 # 3 Not-for-profit clause
+
     3.1 The assets and income of the organisation shall be applied solely in furtherance of its
         above-mentioned objects and no portion shall be distributed directly or indirectly to the
         members of the organisation except as bona fide compensation for services rendered or
         expenses incurred on behalf of the organization.
 
 # 4 MEMBERSHIP
-    4.1 Notwithstanding clause 4.1.1, contact details for members of your club are to remain with
+
+    4.1 Notwithstanding clause 4.1.1, contact details for members of the Club are to remain with
         the Executive and Arc to have sole access. Contact details are not to be given or sold to
         any other person.
           4.1.1 The Returning Officer specified in 6.17 shall have access to the contact details
@@ -53,30 +53,27 @@ The official constitution of the UNSW Security Society.
     4.2 Full membership of the Club shall be open to all UNSW students, and they shall be required
         to pay an annual Club membership fee set by the Club Executive, and complete a membership
         form.
-        4.2.1 Full membership shall be automatically conferred to students enrolled in a
-            UNSW-administered security degree.
-    4.3 Associate membership shall be open to all persons who are not UNSW students, provided that
-        they pay a membership fee that is set by the Club Executive, and they complete a
-        membership form prepared by the Club Executive.
-    4.4 The duration of a person's membership shall be until the Club's next Annual General
-        Meeting after they have become a member, or until the end of Week One in Term One of the
-        University year after they have become a member, whichever is the latter.
+    4.3 Associate membership shall be open to all persons who are not UNSW students, as well as
+        UNSW alumni and current UNSW staff, provided that they pay a membership fee that is set by
+        the Club Executive, and they complete a membership form prepared by the Club Executive.
+    4.4 A person's membership commences on the date they purchase membership and remains valid
+        until the end of Week Three of Term One of the following calendar year.
     4.5 The Club shall comply with Anti-Discrimination legislation in all its activities and
         procedures, including the granting of Club membership.
-    4.6 Notwithstanding clause 4.9, a member of a Club Executive may have their position declared
-        vacant according to the procedures set out in Section 5.8.
-    4.7 Notwithstanding clauses 4.8 and 4.9, an Executive, a member or associate member of a Club
+    4.6 Notwithstanding clause 5.8, a member of the Club Executive may have their Executive
+        position declared vacant in accordance with clause 5.7.
+    4.7 Notwithstanding clauses 5.7 and 5.8, an Executive, a member or associate member of a Club
         may have their membership terminated after the following procedure is followed:
           4.7.1 A motion is carried by the Executive, or the Executive is petitioned by twenty
                 (20) members to instigate impeachment proceedings;
           4.7.2 The members of the Club are notified of the proceedings formally as a motion on
-                notice to an Extraordinary General Meeting under Section 6.2;
+                notice to an Extraordinary General Meeting under Section 6.6;
           4.7.3 The member concerned is notified in writing of the procedures and reasons for
                 proceedings at least seven (7) days prior to the meeting.
           4.7.4 The member concerned is given five (5) minutes to speak against the motion at the
                 Extraordinary General Meeting.
           4.7.5 The motion is carried by the Extraordinary General Meeting.
-    4.8 Notwithstanding clause 4.9, an Executive, a member or associate member of a Club may have
+    4.8 Notwithstanding clause 5.8, an Executive, a member or associate member of a Club may have
         their membership terminated if the following occurs:
           4.8.1 The person in question has acted in a way that has sabotaged the functions of the
                 Club or disregarded the Constitution to the detriment of the Club's membership;
@@ -96,17 +93,15 @@ The official constitution of the UNSW Security Society.
                   4.8.6.1 Executive as listed within their Constitution,
                   4.8.6.2 the person(s) in question,
                   4.8.6.3 a support person for each of the person(s) in question, as required
-                  4.8.6.4 Any member of Arc Clubs Management, as required
+                  4.8.6.4 Any member of Arc, as required
           4.8.7 The person(s) in question must be afforded procedural fairness, including five (5)
-                minutes to speak against the motion. (Refer to Arc Clubs Policy Section E, 33.5 -
-                33.11)
+                minutes to speak against the motion.
           4.8.8 The motion is carried by the General Meeting.
     4.9 Any member of a Club or Club Executive who believes they have been wrongly expelled may
-        appeal to the Clubs Tribunal, who will arrive at the final resolution of the matter.
-    4.10 Appeals must be submitted in writing within seven (7) days of receiving the penalty and
-        must include a justification for seeking an appeal.
+        appeal to Arc.
 
 # 5 EXECUTIVE
+
     5.1 The Executive of the club shall be elected from the full members at the Annual General
         Meeting and shall consist of at least:
           5.1.1 A President;
@@ -126,33 +121,35 @@ The official constitution of the UNSW Security Society.
         following exceptions:
           5.4.1 President and Treasurer may not be held by the same person;
           5.4.2 President and GEDI Officer may not be held by the same person.
-    5.5 Job sharing of any Executive position is not permitted.
-    5.6 The Executive shall be responsible for the following duties:
-          5.6.1 The activities of the club;
-          5.6.2 The finances of the club;
-          5.6.3 Appointing members to the Committee;
-          5.6.4 The maintenance and review of policies & procedures of the Club, including its
+    5.5 The Executive shall be responsible for the following duties:
+          5.5.1 The activities of the club;
+          5.5.2 The finances of the club;
+          5.5.3 Appointing members to the Committee;
+          5.5.4 Appointments will be made by majority vote of the Executive; and
+          5.5.5 The maintenance and review of policies & procedures of the Club, including its
                 Grievance Resolution Policy & Procedure.
-    5.7 The Executive is at all times bound by the decisions of a club Annual or Extraordinary
+    5.6 The Executive is at all times bound by the decisions of a club Annual or Extraordinary
         General Meeting.
-    5.8 Any member of the Executive shall have their position declared vacant if they:
-          5.8.1 Die;
-          5.8.2 Cease to be a member of the club;
-          5.8.3 Cease to be a UNSW student;
-          5.8.4 Are absent from any three (3) consecutive meetings of the club without apology or
+    5.7 Any member of the Executive shall have their position declared vacant if they:
+          5.7.1 Die;
+          5.7.2 Cease to be a member of the club;
+          5.7.3 Cease to be a UNSW student;
+          5.7.4 Are absent from any three (3) consecutive meetings of the club without apology or
                 leave; or
-                  5.8.4.1 Unless exempted unanimously by the Executive.
-          5.8.5 The person fails to fulfil reasonable obligations delegated by:
-                  5.8.5.1 The Constitution, or
-                  5.8.5.2 The Executive, or
-                  5.8.5.3 Any other supplementary regulations.
-                  5.8.5.4 Unless exempted unanimously by the Executive.
-          5.8.6 Have their position declared vacant at an Extraordinary General Meeting.
+                  5.7.4.1 Unless exempted unanimously by the Executive.
+          5.7.5 Meet the criteria outlined in sections 4.7 or 4.8.
+    5.8 Any member of the Committee shall have their position declared vacant if they:
+          5.8.1 Meet the criteria outlined in sections 4.7, 4.8 or 5.7;
+          5.8.2 Are removed from their role by majority vote of the executive.
     5.9 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via
-        the procedures outlined in Section 4.
-    5.10 Duties of the following Executive positions shall include but not be limited to:
+        the procedures outlined in Section 4, unless covered by clause 5.10.
+    5.10 Executive positions that become vacant less than one (1) month before the yearly
+        affiliation period may be filled by majority vote of the Executive. People appointed this
+        way will be ‘Acting’ in the position, may not be the President or Treasurer, and may not
+        be a bank signatory.
+    5.11 Duties of the following Executive positions shall include but not be limited to:
 
-    5.10.1 President
+      5.11.1 President
         a) To chair all club, Committee, General and Annual General Meetings (held during their
            term) of the club or society;
         b) To oversee and coordinate the activities and administration of the club;
@@ -169,24 +166,19 @@ The official constitution of the UNSW Security Society.
         j) To acquaint each committee member with their function, responsibility, duties and
            maintain personal contact with them;
         k) To liaise with Arc and departments of the University where necessary;
-        l) To ensure that an "Application for Affiliation" form accompanied by the minutes of the
-           most recent Annual General Meeting and an updated membership list is submitted to Arc;
+        l) To ensure that required reaffiliation documentation is submitted to Arc within the
+           time period prescribed by Arc;
         m) To ensure that the Treasurer submits a Financial Report to the club at the AGM and to
            Arc and that they have the club's finances in good order in preparation for Spot Audits
            by Arc;
         n) To ensure that Arc is informed of changes to the Executive;
         o) To pass on their knowledge to their successor; and
-        p) To be responsible for matters relating to sponsorship and funding from outside
-           organisations other than Arc, including but not limited to:
-            i. Liaising with such outside organisations;
-           ii. Establishing the sponsorship proposal for the year; and
-          iii. Organising events run in conjunction with sponsors.
-        q) To arrive at a budget with the Executive;
-        r) To ensure that motions made at any Meeting of the Club are reflective of the
+        p) To arrive at a budget with the Executive;
+        q) To ensure that motions made at any Meeting of the Club are reflective of the
            constitution;
-        s) Other duties as in accordance with the Constitution of the club.
+        r) Other duties as in accordance with the Constitution of the club.
 
-      5.10.2 Vice President of Externals
+      5.11.2 Vice President of Externals
         a) To organise external meetings, agendas (in consultation with the President), and
            meeting minutes;
         b) To act as the delegate of the club to external bodies, and be responsible for managing
@@ -195,27 +187,29 @@ The official constitution of the UNSW Security Society.
            club;
         d) Manage and oversee the Club’s presence on social and professional media platforms.
 
-      5.10.3 Vice President of Internals
+      5.11.3 Vice President of Internals
         a) To organise internal meetings, agendas (in consultation with the President), and
            meeting minutes;
         b) To keep relevant club papers in order;
-        c) Administer and coordinate all elections of the Club in accordance with this
+        c) To coordinate elections and liaise with the Returning Officer in accordance with this
            Constitution;
-        d) Administer and coordinate voting procedures and documentation of dispute resolution by
-           vote in accordance with the constitution.
+        d) To have a good working knowledge of Arc forms;
+        e) To coordinate recruitment, onboarding and internal Committee operations; and
+        f) To maintain the membership list, updating when changes are made.
 
-      5.10.4 Vice President of Technicals
-        a) To maintain, oversee, and improve upon the Club’s digital infrastructure;
+      5.11.4 Vice President of Technicals
+        a) To maintain, oversee, and improve upon the Club’s digital infrastructure in a
+           cost-effective manner;
         b) To ensure that the Club's infrastructure is secure, reliable, and compliant with
            University and Arc requirements, including data protection and privacy obligations;
         c) To manage and coordinate technical projects on behalf of the society, ensuring that
-           objectives are clearly defined, progress is tracked, and deliverables are met on time.
+           objectives are clearly defined, progress is tracked, and deliverables are met on time;
         d) To fully document and hand over technical systems, accounts, and infrastructure to
            their successor at the end of their term, ensuring continuity of operations.
 
-      5.10.5 Treasurer
+      5.11.5 Treasurer
         a) To keep and maintain all club financial records;
-        b) To hold cheque books, petty cash tins etc;
+        b) To hold petty cash tins;
         c) To keep the club informed of its financial position (at meetings, through regular email
            reports, or regular newsletter;
         d) To carry out financial transactions as directed by the club management;
@@ -237,20 +231,20 @@ The official constitution of the UNSW Security Society.
         n) To ensure that under no circumstances are any expenses to be met without documentation.
         o) To be aware of the Arc funding system, its requirements and its possibilities for the
            club;
-        p) To communicate with the Executive before and after each Arc Clubs General Meeting to
+        p) To communicate with the Executive before and after each Arc Clubs Briefing to
            pass on information (about grants etc);
         q) To liaise with Arc and the club's Executive;
         r) To have a good working knowledge of Arc forms;
-        s) To clear out the club's pigeonhole in the Arc Resource Centre at least every two (2)
-           weeks;
-        t) To attend Arc Clubs General Meetings or nominate a fellow club member to attend on your
+        s) To attend Arc Clubs Briefings or nominate a fellow club member to attend on your
            behalf, or send advance apologies (taking the form of a written note detailing your
            name, club, and the date of the meeting you can not attend);
-        u) To ensure that Arc is informed of any changes to the Executive; and
-        v) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc
-           requirements.
+        t) To ensure that Arc is informed of any changes to the Executive;
+        u) To ensure that changes made to the constitution at an EGM or AGM are in line with Arc
+           requirements; and
+        v) To always provide a description and reference on any internet banking or app banking
+           payments made.
 
-      5.10.6 Grievance, Equity, Diversity, and Inclusion (GEDI) Officer
+      5.11.6 Grievance, Equity, Diversity, and Inclusion (GEDI) Officer
         a) To be responsible for matters relating to grievances, including but not limited to:
              i. To receive complaints and grievances relating to the Club;
             ii. To investigate grievances (where necessary) and resolve grievances or make
@@ -295,21 +289,22 @@ The official constitution of the UNSW Security Society.
            the Club's grievance policy; and
         e) Other relevant duties as required by the Club.
 
-    5.11 Committee Members
-          5.11.1 Committee positions are to be determined by the executive.
-          5.11.2 Committee positions are to be published and outlined to the society members in
+    5.12 Only UNSW students are eligible to hold an Executive position.
+
+    5.13 Committee Members
+          5.13.1 Committee positions are to be determined by the executive.
+          5.13.2 Committee positions are to be published and outlined to the society members in
                 the Committee Regulations prior to appointing the committee members.
-                  5.11.2.1 The Committee Regulations must outline a description of the position
+                  5.13.2.1 The Committee Regulations must outline a description of the position
                           and any responsibilities, duties and obligations that position holds.
-          5.11.3 Committee members are to be appointed by a majority vote of the executive
-          5.11.4 Any member of the Committee shall have their position declared vacant if they:
-                  5.11.4.1 Meet the criteria outlined in section 5.8; or
-                  5.11.4.2 Are removed from their role by majority vote of the executive.
+          5.13.3 Committee members are to be appointed by a majority vote of the executive.
 
 # 6 MEETINGS
 
 ## Annual General Meetings
-    6.1 There shall be one (1) Annual General meeting every calendar year.
+
+    6.1 There shall be one (1) Annual General meeting every calendar year, held during the
+        reaffiliation period designated by Arc in Term 3.
     6.2 Notice in the form of an agenda for the Annual General Meeting shall be no less than
         fourteen (14) days, and is to be:
           6.2.1 Given in writing to Arc; and
@@ -324,7 +319,7 @@ The official constitution of the UNSW Security Society.
                 ordinary member is defined as a member of the Club that did not serve as Executive
                 in the current year.
     6.4 At an Annual General Meeting:
-          6.4.1 Reports shall be presented by the President and the Treasurer;
+          6.4.1 Reports shall be presented by at least the President and the Treasurer;
           6.4.2 Full financial reports shall be presented and adopted;
           6.4.3 Constitutional amendments and other motions on notice may be discussed and voted
                 upon.
@@ -339,26 +334,36 @@ The official constitution of the UNSW Security Society.
         days of the meeting.
 
 ## Extraordinary General Meetings
+
     6.6 There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned
         under clause 6.8.
+          6.6.1 An Extraordinary General Meeting may not be held in the two (2) weeks before the
+                Annual General Meeting.
     6.7 The format, procedures, notice and quorum for an Extraordinary General Meeting shall be
         the same as for an Annual General Meeting, except that Executive elections will not be
         held unless specifically notified.
-    6.8 To petition for an Extraordinary General Meeting, fifteen (15) members or half of the club
+    6.8 To petition for an Extraordinary General Meeting, twenty (20) members or half of the club
         membership, whichever is the lesser, must petition the Executive in writing.
     6.9 Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than
-        seven (7) days.
+        fourteen (14) days.
     6.10 There shall be other general meetings of the club as the Executive sees fit.
     6.11 Proxies are not allowed at General, Annual General or Extraordinary General Meetings.
 
 ## Meetings
+
     6.12 General requirements for all meetings are as follows:
           6.12.1 All Executive Resolutions (Voting) at meetings shall be subject to requirements
-                outlined in Section 6.13; and
+                outlined in Section 6.14;
           6.12.2 Approved minutes of Executive meetings shall be available to members;
                   6.12.2.1 Approved minutes may exclude, however is not limited to excluding:
                           sponsorship discussions, committee nomination discussions and other
                           internal private matters;
+          6.12.3 All voting at General, Annual General and Extraordinary General Meetings shall
+                be with a simple majority required for a resolution to be passed;
+          6.12.4 Each member is entitled to one (1) vote on each motion at a General, Annual
+                General or Extraordinary General Meeting; and
+          6.12.5 Motions not pertaining to Constitutional changes may be raised at the Meeting
+                from any member in attendance.
     6.13 Meetings shall be conducted:
           6.13.1 At least once per month;
                   6.13.1.1 Unless otherwise agreed upon by a majority of the executive
@@ -386,6 +391,7 @@ The official constitution of the UNSW Security Society.
                 be approved by Arc for the Club to remain affiliated with Arc.
 
 ## Elections
+
     6.15 Elections of executive will be conducted at the Annual General Meeting (or Extraordinary
         General Meetings where relevant) following the requirements set out in this constitution.
     6.16 At least one (1) Returning Officer must be appointed by the Executive prior to a General
@@ -393,23 +399,25 @@ The official constitution of the UNSW Security Society.
     6.17 The Returning Officers duties are as follows:
           6.17.1 Ensure that they are at all times impartial and objective and cannot be
                 determined to have a real or perceived conflict of interest by Club members,
-                Executive or by Arc Clubs Management.
+                Executive or by Arc.
           6.17.2 Ensure that all elections are run fairly and in line with the rules set out by
                 this Club’s Constitution and according to Arc Clubs Policy and Procedure.
-          6.17.3 Prepare and circulate all notices of election, nominations, voting and proxies to
-                be held as part of any General Meeting in which an election is to take place.
+          6.17.3 Prepare and circulate all notices of election, nominations, voting and, where
+                proxies are permitted under this Constitution, proxies to be held as part of any
+                General Meeting in which an election is to take place.
           6.17.4 Provide all members with access to an email address that is designated for use by
                 the Returning Officer over the course of their duties.
           6.17.5 Accept all nominations submitted that satisfy the rules of this Club’s
                 Constitution and Arc Clubs Policy and treat any defective or late nominations in
                 the manner prescribed by this Club’s Constitution and/or Arc policy.
           6.17.6 If voting is to take place online, ensure that the appointed Returning Officer(s)
-                are the only person(s), alongside Arc Clubs Management, with access to the voting
-                forms and spreadsheets.
-          6.17.7 If voting is to take place in person, ensure that they have provided all members
-                with instructions surrounding proxies, have received any proxies via accepted
-                channels and determined the validity of proxies submitted prior to the General
-                Meeting taking place.
+                are the only person(s), alongside Arc, with access to the voting forms and
+                spreadsheets.
+          6.17.7 If voting is to take place in person and proxies are permitted under this
+                Constitution, ensure that they have provided all members with instructions
+                surrounding proxies, have received any proxies via accepted channels and
+                determined the validity of proxies submitted prior to the General Meeting taking
+                place.
           6.17.8 Runs the portion of the General Meeting pertaining to the election of candidates
           6.17.9 Allows for at least 1 scrutineer per candidate, (who cannot be the candidate
                 themselves) to be present for the counting of votes, if this is held in person, or
@@ -420,7 +428,8 @@ The official constitution of the UNSW Security Society.
           6.17.11 Where there is a clash between this Club’s Constitution and Arc Clubs Policy,
                 Arc Clubs Policy takes precedence.
     6.18 Elections requirements are stated as follows:
-          6.18.1 Optional preferential voting shall be used;
+          6.18.1 Regular Single Transferable Vote (STV) / Instant Runoff Voting (IRV) shall be
+                used;
           6.18.2 Voting for all positions shall be conducted simultaneously (where applicable);
           6.18.3 Members who nominate themselves for candidacy for more than one (1) position must
                 provide an order of preference;
@@ -438,55 +447,59 @@ The official constitution of the UNSW Security Society.
                   6.18.5.4 Only the returning officer may view the list of nominations until
                           nominations have closed.
                   6.18.5.5 At the start of the voting period:
-                          6.18.5.5.1 An official ballot shall be sent to members;
-                          6.18.5.5.2 The ballot will disclose the preferred position of each
-                                    confirmed candidate; and
-                          6.18.5.5.3 The order of candidates for each position on the ballot will
-                                    be random.
+                            6.18.5.5.1 An official ballot shall be sent to members;
+                            6.18.5.5.2 The ballot will disclose the preferred position of each
+                                      confirmed candidate; and
+                            6.18.5.5.3 The order of candidates for each position on the ballot
+                                      will be random.
                   6.18.5.6 For any position for which there are no confirmed candidates at the
                           close of nominations, nominations for those positions will be valid if
                           received at the General Meeting.
+          6.18.6 Associate members do not have voting rights;
+          6.18.7 In the case of equality of voting a countback will be held, with the candidate
+                that received the most first preference votes winning. If there is another tie,
+                the second preference votes will determine the winner, and so on, until a winner
+                is determined; and
+          6.18.8 In the event a vote is completely and evenly matched, a re-vote will be held.
     6.19 All election candidates:
-          6.19.1 Must not run in coalitions; and
-          6.19.2 May campaign for their positions subject to the following procedures:
-                  6.19.2.1 The current or outgoing executives, and committee may not support or
+          6.19.1 May campaign for their positions subject to the following procedures:
+                  6.19.1.1 The current or outgoing executives, and committee may not support or
                           criticise any candidate for election other than themselves; and
-                  6.19.2.2 The current or outgoing executives, and committee who are campaigning
+                  6.19.1.2 The current or outgoing executives, and committee who are campaigning
                           for themselves may not use any privileges or permissions from their
-                          position;
-          6.19.3 At the General Meeting at which the election was held (unless they are the only
+                          position; and
+          6.19.2 At the General Meeting at which the election was held (unless they are the only
                 candidate for a position), will have their elected position given to the next
                 candidate in line if:
-                  6.19.3.1 They do not attend (unless the candidate has given an excuse), or
-                  6.19.3.2 They wish to no longer accept their position.
+                  6.19.2.1 They do not attend (unless the candidate has given an excuse), or
+                  6.19.2.2 They wish to no longer accept their position.
     6.20 Elections may take place as one of the following forms, provided they satisfy all
         existing election requirements as set out in this constitution and their requirements as
         set out below:
           6.20.1 Ballot Elections
-                  6.20.1.1 Nominations will be open at least one (1) week before the election, and
+                  6.20.1.1 Nominations will open at least eight (8) days before the election, and
                           close the day before the election;
-                  6.20.1.2 Additional nominations received at the General Meeting are valid;
-                  6.20.1.3 All present members shall be provided a paper ballot;
-                  6.20.1.4 Candidates may campaign at the meeting before voting begins. If unable
-                          to do so, the Returning Officer shall read out their blurb, if any was
-                          provided.
+                  6.20.1.2 All present members shall be provided a ballot, in paper or
+                          electronic form;
+                  6.20.1.3 Candidates may campaign at the meeting before voting begins.
           6.20.2 Online Elections
-                  6.20.2.1 At least two (2) weeks before the election:
+                  6.20.2.1 At least fourteen (14) days before voting commences, notice of the
+                          election is to be given in writing to all members and to
+                          clubs@arc.unsw.edu.au, at which time:
                             6.20.2.1.1 Nominations will open; and
                             6.20.2.1.2 Members will be notified that they need to sign up to the
                                       society on Rubric before voting begins to be eligible to
                                       vote.
-                  6.20.2.2 At least five (5) days before the election:
-                            6.20.2.2.1 Nominations will close;
-                            6.20.2.2.2 Candidates may start campaigning; and
-                            6.20.2.2.3 Voting will begin, where official ballots shall only be
-                                      sent to all members who have signed up to the society on
-                                      Rubric.
-                  6.20.2.3 The results are to be declared at a General Meeting held within
-                          fourteen (14) days of the conclusion of voting.
-    6.21 AGM Elections
-          6.21.1 At least three (3) weeks prior to the AGM date, notice of the AGM and nomination
-                procedure shall be given to members.
+                  6.20.2.2 Nominations will close before voting commences, after which
+                          candidates may start campaigning.
+                  6.20.2.3 Voting will begin no earlier than fourteen (14) days after notice is
+                          given under clause 6.20.2.1, where official ballots shall only be sent
+                          to all members who have signed up to the society on Rubric. Voting
+                          shall remain open for at least five (5) days.
+                  6.20.2.4 The results are to be declared at an Annual or Extraordinary General
+                          Meeting held on the next academic day after voting ends.
+    6.21 The notice provided under clause 6.2 must include the nomination procedure for AGM
+        elections.
     6.22 After a new executive team is elected:
           6.22.1 The previous executive team will retain delegated authority over activities run
                 by their directors and subcommittee;
@@ -494,8 +507,11 @@ The official constitution of the UNSW Security Society.
                 themselves; and
           6.22.3 This authority will end at the conclusion of the final teaching period of the
                 year, as defined by the University's main academic calendar.
+    6.23 The Club must keep adequate records of members sufficient to determine their eligibility
+        to vote in and stand for election.
 
 # 7 FINANCE
+
     7.1 The club shall hold an account with a financial institution approved by Arc;
     7.2 The Executive must approve all accounts and expenditures for payment;
     7.3 All financial transactions shall require two (2) signatures of members of the Executive;
@@ -504,6 +520,7 @@ The official constitution of the UNSW Security Society.
     7.5 The financial records of the club shall be open for inspection by Arc at all times.
 
 # 8 DISSOLUTION
+
     8.1 Dissolution of the club will occur after the following conditions have been met:
           8.1.1 An Extraordinary General Meeting is petitioned in writing as set out in 6.8;
           8.1.2 Procedures for notification as set out in 6.2 are followed, and the reasons for
@@ -528,6 +545,7 @@ The official constitution of the UNSW Security Society.
         twenty one (21) days to forward all relevant items to Arc before any action is instigated.
 
 # 9 ADDITIONS
+
     9.1 Any digital form sent from the society which requires a response must provide a submission
     receipt unless anonymously completed.
 
