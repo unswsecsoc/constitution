@@ -198,11 +198,12 @@ The official constitution of the UNSW Security Society.
         f) To maintain the membership list, updating when changes are made.
 
       5.11.4 Vice President of Technicals
-        a) To maintain, oversee, and improve upon the Club’s digital infrastructure;
+        a) To maintain, oversee, and improve upon the Club’s digital infrastructure in a
+           cost-effective manner;
         b) To ensure that the Club's infrastructure is secure, reliable, and compliant with
            University and Arc requirements, including data protection and privacy obligations;
         c) To manage and coordinate technical projects on behalf of the society, ensuring that
-           objectives are clearly defined, progress is tracked, and deliverables are met on time.
+           objectives are clearly defined, progress is tracked, and deliverables are met on time;
         d) To fully document and hand over technical systems, accounts, and infrastructure to
            their successor at the end of their term, ensuring continuity of operations.
 
