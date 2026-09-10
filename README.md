@@ -489,9 +489,8 @@ The official constitution of the UNSW Security Society.
                             6.20.2.1.2 Members will be notified that they need to sign up to the
                                       society on Rubric before voting begins to be eligible to
                                       vote.
-                  6.20.2.2 At least five (5) days before voting commences:
-                            6.20.2.2.1 Nominations will close; and
-                            6.20.2.2.2 Candidates may start campaigning.
+                  6.20.2.2 Nominations will close before voting commences, after which
+                          candidates may start campaigning.
                   6.20.2.3 Voting will begin no earlier than fourteen (14) days after notice is
                           given under clause 6.20.2.1, where official ballots shall only be sent
                           to all members who have signed up to the society on Rubric. Voting
