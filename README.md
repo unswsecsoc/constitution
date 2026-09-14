@@ -306,7 +306,7 @@ The official constitution of the UNSW Security Society.
                 Arc.
           6.2.3 Ensure that all elections are run fairly and in line with the rules set out by this
                 Club's Constitution and according to Arc Policy.
-          6.2.4 Prepare and circulate all notices of election, nominations, voting and proxies to be
+          6.2.4 Prepare and circulate all notices of election, nominations and voting  to be
                 held as part of any General Meeting in which an election is to take place.
           6.2.5 Provide all members with access to an email address that is designated for use by
                 the Returning Officer over the course of their duties.
@@ -316,18 +316,14 @@ The official constitution of the UNSW Security Society.
           6.2.7 If voting is to take place online, ensure that the appointed Returning Officer(s)
                 are the only person(s), alongside Arc, with access to the voting forms and
                 spreadsheets.
-          6.2.8 If voting is to take place in person, ensure that they have provided all members
-                with instructions surrounding proxies, have received any proxies via accepted
-                channels and determined the validity of proxies submitted prior to the General
-                Meeting taking place.
-          6.2.9 Runs the portion of the General Meeting pertaining to the election of candidates
-          6.2.10 Allows for at least 1 scrutineer per candidate, (who cannot be the candidate
+          6.2.8 Runs the portion of the General Meeting pertaining to the election of candidates
+          6.2.9 Allows for at least 1 scrutineer per candidate, (who cannot be the candidate
                  themselves) to be present for the counting of votes, if this is held in person, or
                  for that person to be provided access to the voting sheets if the election was held
                  online.
-          6.2.11 To present a report announcing all successful candidates following the conclusion
+          6.2.10 To present a report announcing all successful candidates following the conclusion
                  of the voting process.
-          6.2.12 Where there is a clash between this Club's Constitution and Arc Policy, Arc Policy
+          6.2.11 Where there is a clash between this Club's Constitution and Arc Policy, Arc Policy
                  takes precedence.
     6.3 Annual General Meetings
           6.3.1 There shall be one Annual General meeting every calendar year.
@@ -374,22 +370,18 @@ The official constitution of the UNSW Security Society.
                 a) All voting at meetings shall be with a simple majority required for a resolution
                    to be passed;
                 b) Each member is entitled to one vote;
-                c) Directed proxies shall be allowed in meetings and the procedure shall comply with
-                   the requirements of Arc;
-                d) Only a Returning Officer, or in their absence, meeting Chair, may hold proxy
-                   votes.
-                e) Elections for Executive shall use the Regular Single Transferable Vote (STV) /
+                c) Elections for Executive shall use the Regular Single Transferable Vote (STV) /
                    Instant Runoff Voting (IRV) system;
-                f) In the case of equality of voting a countback will be held, with the candidate
+                d) In the case of equality of voting a countback will be held, with the candidate
                    that received the most first preference votes winning. If there is another tie,
                    the second preference votes will determine the winner, and so on, until a winner
                    is determined;
-                g) In the event a vote is completely and evenly matched, a re-vote will be held.
-                h) Constitutional changes must be in the form of a motion on notice to an Annual or
+                e) In the event a vote is completely and evenly matched, a re-vote will be held.
+                f) Constitutional changes must be in the form of a motion on notice to an Annual or
                    Extraordinary General Meeting;
-                i) Constitutional changes passed at an Annual or Extraordinary General Meeting must
+                g) Constitutional changes passed at an Annual or Extraordinary General Meeting must
                    be approved by Arc for the Club to remain affiliated with Arc.
-                j) Motions not pertaining to Constitutional changes may be raised at the Meeting
+                h) Motions not pertaining to Constitutional changes may be raised at the Meeting
                    from any member in attendance.
 
 # 7 FINANCE
