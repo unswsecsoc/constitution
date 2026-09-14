@@ -142,7 +142,7 @@ The official constitution of the UNSW Security Society.
           5.8.1 Meet the criteria outlined in sections 4.7 or 4.8;
           5.8.2 Are removed from their role by majority vote of the executive.
     5.9 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via
-        the procedures outlined in Section 4, unless covered by clause 5.10.
+        the election procedures outlined in Section 6, unless covered by clause 5.10.
     5.10 Executive positions that become vacant less than one (1) month before the yearly
         affiliation period may be filled by majority vote of the Executive. People appointed this
         way will be ‘Acting’ in the position, may not be the President or Treasurer, and may not
