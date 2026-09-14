@@ -139,7 +139,7 @@ The official constitution of the UNSW Security Society.
                   5.7.4.1 Unless exempted unanimously by the Executive.
           5.7.5 Meet the criteria outlined in sections 4.7 or 4.8.
     5.8 Any member of the Committee shall have their position declared vacant if they:
-          5.8.1 Meet the criteria outlined in sections 4.7, 4.8 or 5.7;
+          5.8.1 Meet the criteria outlined in sections 4.7 or 4.8;
           5.8.2 Are removed from their role by majority vote of the executive.
     5.9 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via
         the procedures outlined in Section 4, unless covered by clause 5.10.
