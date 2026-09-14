@@ -523,7 +523,7 @@ The official constitution of the UNSW Security Society.
 
     8.1 Dissolution of the club will occur after the following conditions have been met:
           8.1.1 An Extraordinary General Meeting is petitioned in writing as set out in 6.8;
-          8.1.2 Procedures for notification as set out in 6.2 are followed, and the reasons for
+          8.1.2 Procedures for notification as set out in clauses 6.6 to 6.9 are followed, and the reasons for
                 the proposed dissolution are included with the notification to Arc;
           8.1.3 Quorum for the meeting to dissolve the club shall be twenty (20) members or
                 three-quarters of the club membership, whichever is the lesser;
