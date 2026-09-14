@@ -392,7 +392,7 @@ The official constitution of the UNSW Security Society.
 
 ## Elections
 
-    6.15 Elections of executive will be conducted at the Annual General Meeting (or Extraordinary
+    6.15 Elections of executive will be conducted in connection with the Annual General Meeting (or Extraordinary
         General Meetings where relevant) following the requirements set out in this constitution.
     6.16 At least one (1) Returning Officer must be appointed by the Executive prior to a General
         Meeting at which an election will take place.
